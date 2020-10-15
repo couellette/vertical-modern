@@ -1,0 +1,2412 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Adventure Island III.nes</path>
+		<name>Adventure Island 3</name>
+		<thumbnail>./media/covers/Adventure Island III.png</thumbnail>
+		<image>./media/screenshots/Adventure Island III.png</image>
+		<marquee>./media/marquees/Adventure Island III.png</marquee>
+		<video>./media/videos/Adventure Island III.mp4</video>
+		<rating>0.85</rating>
+		<desc>Your girlfriend is once again kidnapped by aliens, and you have to rescue her, forcing your way through various levels.
+
+The gameplay and the design haven't much changed since Adventure Island II: Aliens in Paradise: there is a world map, you can choose items before starting a level, the levels themselves are quite short (unlike Adventure Island, where each large level contained several stages). You perform standard "adventure island" activities: ride various types of dinosaurs, throw boomerangs at snails, birds, snakes, and skulls, collect grapes and apples, jump over stones, and of course, ride your old trusty skateboard.
+</desc>
+		<releasedate>19920902T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform, Action</genre>
+		<players>1</players>
+		<lastplayed>20201012T223926</lastplayed>
+		<playcount>22</playcount>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Adventure Island.nes</path>
+		<name>Adventure Island Classic</name>
+		<thumbnail>./media/covers/Adventure Island.png</thumbnail>
+		<image>./media/screenshots/Adventure Island.png</image>
+		<marquee>./media/marquees/Adventure Island.png</marquee>
+		<video>./media/videos/Adventure Island.mp4</video>
+		<rating>0.6</rating>
+		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
+
+The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lastplayed>20201015T015546</lastplayed>
+		<playcount>8</playcount>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Adventure Island II.nes</path>
+		<name>Adventure Island Part II, The</name>
+		<thumbnail>./media/covers/Adventure Island II.png</thumbnail>
+		<image>./media/screenshots/Adventure Island II.png</image>
+		<marquee>./media/marquees/Adventure Island II.png</marquee>
+		<video>./media/videos/Adventure Island II.mp4</video>
+		<rating>0.9</rating>
+		<desc>In Adventure Island II: Aliens in Paradise the player takes the role of Master Higgins who has to save his cavegirl from aliens which also want to dominate the Earth. The basic gameplay elements are the same as in its predecessor Adventure Island: Master Higgins walks through the levels while fighting against various enemies. One hit results in his untimely death unless he carries one of the various power ups, e.g. weapons or a skateboard which improves his speed. He also needs to collect food to fill up his steadily decreasing starvation bar - death awaits if it hits zero.
+
+A big addition are dinosaurs which serve as mount and offer different abilities, e.g. flying or shooting fireballs. Like all power ups these don't have to be used instantly but can be saved for later: before every level the player can choose the power ups he wants to bring with him. There are overall eight worlds with different themes which are represented by a overhead map. Sometimes there are different paths with other level and at the end of a world Master Higgins has to fight a boss.
+</desc>
+		<releasedate>19920722T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform, Action</genre>
+		<players>1</players>
+		<lastplayed>20201014T203836</lastplayed>
+		<playcount>6</playcount>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Adventures of Lolo, The.nes</path>
+		<name>Adventures of Lolo</name>
+		<thumbnail>./media/covers/Adventures of Lolo, The.png</thumbnail>
+		<image>./media/screenshots/Adventures of Lolo, The.png</image>
+		<marquee>./media/marquees/Adventures of Lolo, The.png</marquee>
+		<video>./media/videos/Adventures of Lolo, The.mp4</video>
+		<rating>0.75</rating>
+		<desc>The lovely princess Lala was kidnapped by the Evil Demons of the Empire. You are Lolo, a round ball-like creature (just like the princess herself), and your mission is to sneak into the empire castle and to liberate the princess.
+
+Adventures of Lolo is a puzzle game, and each level is a castle room. The goal in each room is to collect all the hearts. It is not always easy, because some hearts are blocked by enemies who will shoot you when you cross their path horizontally or vertically (or both). Once you collect all the hearts, a treasure chest will open and activate all the creatures in the room, even those who were not hostile until now. You must quickly cross the room to the exit which is now available to go to the next room. The game contains 50 rooms in total.
+
+The difficulty level increases with each room, and after a few levels there is an especially hard room with tougher enemies.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Strategy, Action, Puzzle-Game</genre>
+		<players>1</players>
+		<lastplayed>20201012T181522</lastplayed>
+		<playcount>4</playcount>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Adventures of Lolo III , The.nes</path>
+		<name>Adventures of Lolo 3</name>
+		<thumbnail>./media/covers/Adventures of Lolo III , The.png</thumbnail>
+		<image>./media/screenshots/Adventures of Lolo III , The.png</image>
+		<marquee>./media/marquees/Adventures of Lolo III , The.png</marquee>
+		<video>./media/videos/Adventures of Lolo III , The.mp4</video>
+		<rating>0.7</rating>
+		<desc>This time, Lolo has a red friend who will do for him some of the work. Unlike the two previous Lolo games, here you can wander around a world map and enter different locations in a non-linear fashion. However, some of the locations remain blocked until you find a key after completing another level. 
+
+The gameplay is very similar to the one of the two previous games. You have to collect all the hearts in each room. Enemies will prevent you from doing that, and others will appear once you have eaten all the hearts and are hurrying towards the exit. The puzzles involve mostly pushing things to prevent enemies from stopping you.</desc>
+		<releasedate>19910902T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Strategy, Puzzle-Game</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Astyanax.nes</path>
+		<name>Astyanax</name>
+		<thumbnail>./media/covers/Astyanax.png</thumbnail>
+		<image>./media/screenshots/Astyanax.png</image>
+		<marquee>./media/marquees/Astyanax.png</marquee>
+		<video>./media/videos/Astyanax.mp4</video>
+		<rating>0.7</rating>
+		<desc>You are Astyanax, a sixteen year old boy that has the same dream night after night: A princess, calling for help. One afternoon, you are summoned to the world of Remnia by Cutie, a pixie, to save the realm's princess. You are the chosen one mentioned by their prophecies!
+
+Yes, this is your typical fantasy story setting. You must save the realm from Blackhorn's evil horde! Along the way you'll find powerups that will make you stronger, and upgrade your weapon; and you can also unleash magical attacks that hit all enemies on the screen.</desc>
+		<releasedate>19900301T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Baseball Stars.nes</path>
+		<name>Baseball Stars</name>
+		<thumbnail>./media/covers/Baseball Stars.png</thumbnail>
+		<image>./media/screenshots/Baseball Stars.png</image>
+		<marquee>./media/marquees/Baseball Stars.png</marquee>
+		<video>./media/videos/Baseball Stars.mp4</video>
+		<rating>0.75</rating>
+		<desc>This NES version of Baseball Stars is the very first game in SNK's popular series.  It is also the most comprehensive game in the series.  You can create, name, upgrade, and manage your own team, as well as customize the team's logo and colors.  You can also change the stats of each individual player by paying him or her more money (earned from winning games).
+
+There are eight already-created gimmick teams that you can also play with, including the American Dreams, Lovely Ladies, and the Ghastly Monsters.  You can set up a custom league which will keep complete stats on all players in the league.  All games are played in the famous SNK Stadium.</desc>
+		<releasedate>19890701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lastplayed>20201012T204324</lastplayed>
+		<playcount>1</playcount>
+	</game>
+	<game>
+		<path>./Batman.nes</path>
+		<name>Batman : The Video Game</name>
+		<thumbnail>./media/covers/Batman.png</thumbnail>
+		<image>./media/screenshots/Batman.png</image>
+		<marquee>./media/marquees/Batman.png</marquee>
+		<video>./media/videos/Batman.mp4</video>
+		<rating>0.9</rating>
+		<desc>The NES version of Batman: The Video Game is loosely based on the 1989 movie. It is a side-scrolling game, with a blue dressed Batman fighting enemies such as robots, jet-packed soldiers, ninjas and mutants.
+
+The game consists in five levels somewhat related to the movie: Gotham City streets (with Killer Moth as the final boss), AXIS Chemical Factory (with Machine Intelligence System as boss), Underground Conduit (with Electrocutioner as boss), the Laboratory Ruins (the Dual-Container Alarm as boss) and Gotham's Cathedral (with Firebug as boss) where Batman finally faces the Joker. Before each level, a cutscene with scenes from the movie is displayed.
+
+Besides his ever trusting punches, Batman has plenty of weapons in his utility belt: the Batarang, the Spear Gun and the Dirk (a three direction weapon). Batman has an ammunition counter shared for the three weapons. The Batarang takes one pellet per shot, the Spear Gun two pellets and the Dirk, three. Batman also has an eight hit life bar, which can be replenished by collecting hearts dropped by killed enemies. The enemies will also drop pellet items (10 pellets per item) and bonus items (which will only sum up points).
+
+Batman can also perform a "wall jump": he'll grab a wall when jumping toward it, allowing him to escalate some narrow passages. Batman has three lives and unlimited continues.
+</desc>
+		<releasedate>19900914T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Battletoads.nes</path>
+		<name>Battletoads</name>
+		<thumbnail>./media/covers/Battletoads.png</thumbnail>
+		<image>./media/screenshots/Battletoads.png</image>
+		<marquee>./media/marquees/Battletoads.png</marquee>
+		<video>./media/videos/Battletoads.mp4</video>
+		<rating>0.8</rating>
+		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!
+
+You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.</desc>
+		<releasedate>19930218T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Action, Beat'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Battletoads &amp; Double Dragon - The Ultimate Team.nes</path>
+		<name>Battletoads &amp; Double Dragon</name>
+		<thumbnail>./media/covers/Battletoads &amp; Double Dragon - The Ultimate Team.png</thumbnail>
+		<image>./media/screenshots/Battletoads &amp; Double Dragon - The Ultimate Team.png</image>
+		<marquee>./media/marquees/Battletoads &amp; Double Dragon - The Ultimate Team.png</marquee>
+		<video>./media/videos/Battletoads &amp; Double Dragon - The Ultimate Team.mp4</video>
+		<rating>0.75</rating>
+		<desc>Earth is under fire by Colossus, a battleship the size of a city. Using powerful laser cannons, it has destroyed most of Earth's defence forces, while its many troops clean up the rest of the planet. All expect for 5 warriors.
+
+The Battletoads, who are well aware of evil forces in the galaxy, join forces with Billy and Jimmy Lee from Double Dragon to defend Earth from the deadly ship and its troops. Using a range of special moves you must fight your way through the streets into the heart of the ship and destroy it.
+</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Bionic Commando.nes</path>
+		<name>Bionic Commando</name>
+		<thumbnail>./media/covers/Bionic Commando.png</thumbnail>
+		<image>./media/screenshots/Bionic Commando.png</image>
+		<marquee>./media/marquees/Bionic Commando.png</marquee>
+		<video>./media/videos/Bionic Commando.mp4</video>
+		<rating>0.9</rating>
+		<desc>You play a soldier with a bionic arm that extends and contracts.  Your arm allows you to grab on to fixed objects to swing around and climb up levels -- no jumping allowed! The arm also grabs opponents and pull them towards you.
+
+Your mission is to infiltrate the enemy fortress, find your missing comrade, "Super Joe", and take out the evil leader, "Generalissimo Kilt", of the invading force that has been attacking your people for the last 2 years.
+
+After most levels the Bionic Commando will recieve items. Often these items are required to successfully complete other levels. Additionally, each level will require a different colored communicator in order to make sense of message traffic
+</desc>
+		<releasedate>19901026T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Blades of Steel.nes</path>
+		<name>Blades of Steel</name>
+		<thumbnail>./media/covers/Blades of Steel.png</thumbnail>
+		<image>./media/screenshots/Blades of Steel.png</image>
+		<marquee>./media/marquees/Blades of Steel.png</marquee>
+		<video>./media/videos/Blades of Steel.mp4</video>
+		<rating>0.75</rating>
+		<desc>Based on the arcade game, Blades Of Steel is a hockey arcade action game (gameplay doesn't require the need to worry about statistics or provide the ability to customize teams.) Two players can play against each other, or one player against the computer. In one player mode there are single game and tournament mode options.  From time to time a fight may break out, which will provide a close up view of the two players. The player has control during the miniature fight game sequence, with the loser having to spend time in the penalty box.  The referee will break up fights that go on too long, and calls a few penalties such as icing. Several short clips of digitized voices are also featured.</desc>
+		<releasedate>19901123T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Hockey, Sports</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Blaster Master.nes</path>
+		<name>Blaster Master</name>
+		<thumbnail>./media/covers/Blaster Master.png</thumbnail>
+		<image>./media/screenshots/Blaster Master.png</image>
+		<marquee>./media/marquees/Blaster Master.png</marquee>
+		<video>./media/videos/Blaster Master.mp4</video>
+		<rating>0.75</rating>
+		<desc>The classic story of a boy and his frog who runs away, becomes radioactive and jumps into a hole. More importantly however, it's the story about a boy who finds a fully functional battletank, SOFIA the 3rd, and goes adventuring around the underground. His mission... to find new weapons and add-on parts to the battletank which will in turn allow him to explore more areas until eventually he finds that freedom-loving mutant frog. And while he's down there he might as well defeat the Evil Plutonium Boss who wishes to threaten the Earth.</desc>
+		<releasedate>19910425T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Bubble Bobble.nes</path>
+		<name>Bubble Bobble</name>
+		<thumbnail>./media/covers/Bubble Bobble.png</thumbnail>
+		<image>./media/screenshots/Bubble Bobble.png</image>
+		<marquee>./media/marquees/Bubble Bobble.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...
+
+Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Taking too long to complete any level will summon Baron Von Blubba, who will float around the screen trying to destroy the player.</desc>
+		<releasedate>19901026T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Bubble Bobble - Part 2.nes</path>
+		<name>Bubble Bobble Part 2</name>
+		<thumbnail>./media/covers/Bubble Bobble - Part 2.png</thumbnail>
+		<image>./media/screenshots/Bubble Bobble - Part 2.png</image>
+		<marquee>./media/marquees/Bubble Bobble - Part 2.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Cubby and Rubby, descendants of Bub and Bob from the original Bubble Bobble, must rescue their friend Judy, who has been kidnapped by the evil Skull Brothers!
+
+The game plays much like the original game: You use a dinosaur that spits bubbles at their enemies, trapping them until you touch the bubbles to make them pop and defeat the trapped enemies. But Cubby and Rubby have two skills their ancestors did not: by holding down the attack button, they can float upwards - and by releasing it, they'll fire several bubbles at once. They can also pick up special items that increase their points, speed and attack power. This game features 80 levels, all-new enemies, and bonus mini-games.
+</desc>
+		<releasedate>19930801T000000</releasedate>
+		<developer>ITL</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Castlevania.nes</path>
+		<name>Castlevania</name>
+		<thumbnail>./media/covers/Castlevania.png</thumbnail>
+		<image>./media/screenshots/Castlevania.png</image>
+		<marquee>./media/marquees/Castlevania.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
+
+Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Castlevania II - Simon's Quest.nes</path>
+		<name>Castlevania II : Simon's Quest</name>
+		<thumbnail>./media/covers/Castlevania II - Simon's Quest.png</thumbnail>
+		<image>./media/screenshots/Castlevania II - Simon's Quest.png</image>
+		<marquee>./media/marquees/Castlevania II - Simon's Quest.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Castlevania II: Simon's Quest is the second one of three Castlevania games released on the NES. After the vampire killer Simon Belmont destroyed Count Dracula in the original Castlevania (1987), an evil curse possessed him. The only way Simon can break the count's curse is to find five of Dracula's body parts (which are mysteriously strewn throughout Transylvania) and burn them. 
+
+Unlike most of the other Castlevania games, Simon's Quest does not feature the traditional stages but allows you to freely roam the land of Transylvania in the style of Nintendo's Metroid. In several towns Simon can talk with NPC's and buy items in shops, adding a touch of role-playing.
+</desc>
+		<releasedate>19900427T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Castlevania III - Dracula's Curse.nes</path>
+		<name>Castlevania III : Dracula's Curse</name>
+		<thumbnail>./media/covers/Castlevania III - Dracula's Curse.png</thumbnail>
+		<image>./media/screenshots/Castlevania III - Dracula's Curse.png</image>
+		<marquee>./media/marquees/Castlevania III - Dracula's Curse.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>Taking place 100 years before the events of Castlevania 1 and Castlevania 2, Dracula the Vampire has risen up to threaten the small village of Warakiya. Citizens who had banished the Belmont family now beg for Trevor Belmont's help in slaying Dracula. In his strange castle, Dracula has been assembling a massive army of undead creatures to sweep the Earth clean of life and bring everlasting darkness. Trevor agrees to help and equips his family's hereditary whip, the "Vampire Slayer", in order to destroy Dracula.
+
+Castlevania III: Dracula's Curse is a side-scrolling platform game. The gameplay is nearly identical to the first Castlevania game. The player takes the role of Trevor Belmont who is able to move left and right, jump, attack with his whip straight ahead and use a special weapon. These special weapons consume hearts, which can be found by defeating monsters or destroying candles. Power-ups include: a throwing dagger, a throwing axe, A time-stopping stopwatch, a cross-shaped boomerang and a vial of holy water. Additionally there is a double shot (II) and triple shot (III) power-up which increases the number of special weapons that can be used at one time. Trevor is defeated if his life meter runs out, and can find a roast turkey power-up to replenish it. Trevor progresses through each level defeating monsters and eventually encountering a boss creature. At different points in the game the player will be able to chose between different paths, which will determine which levels are played.
+
+At the end of certain levels, the player may encounter a companion which can be recruited. Only one companion can accompany Trevor at any time; accepting a new companion means rejecting the existing one. Once recruited, Trevor can change between his own form and that of the companion. Each companion has an independent life meter and has unique abilities such as powerful magic, the ability to climb walls or flight. These abilities may also affect the types of power-ups that appear in candles and the exact function of special weapons.</desc>
+		<releasedate>19921210T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Chip 'N Dale - Rescue Rangers.nes</path>
+		<name>Chip 'n Dale : Rescue Rangers</name>
+		<thumbnail>./media/covers/Chip 'N Dale - Rescue Rangers.png</thumbnail>
+		<image>./media/screenshots/Chip 'N Dale - Rescue Rangers.png</image>
+		<marquee>./media/marquees/Chip 'N Dale - Rescue Rangers.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>The rescue rangers are tiny heroes. Consisting of two chipmunks, two mice and a fly... these heroes may be small but there's no case too big for them to take on. This game starts out simply enough, with a mission to rescue a small kitten, but soon escalates into a wider plot that pits the rescue rangers against their arch-nemesis, the feline kingpin, Fat Cat.
+</desc>
+		<releasedate>19911212T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Chip 'N Dale - Rescue Rangers 2.nes</path>
+		<name>Chip 'n Dale : Rescue Rangers 2</name>
+		<thumbnail>./media/covers/Chip 'N Dale - Rescue Rangers 2.png</thumbnail>
+		<image>./media/screenshots/Chip 'N Dale - Rescue Rangers 2.png</image>
+		<marquee>./media/marquees/Chip 'N Dale - Rescue Rangers 2.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>Following the first Rescue Rangers game, the Rangers' overcame the plot of their arch-nemesis Fatcat, and locked him up in the prison/pound. However, Fatcat's henchmen have sprung him from prison by blimp. Suddenly a television news anchor is reporting that there is a bomb threat in a local restaurant. The Rescue Rangers take it upon themselves to save the day only to learn that the whole bomb scare was a diversion in order to allow Fatcat to steal an artifact known as the Urn of the Pharoah. The team must track Fatcat and learn what he has in store for the stolen goods.
+
+Like the previous game, Chip &amp; Dale's Rescue Rangers 2 is a side-scrolling action game where 2 players can play simultaneously as Chip &amp; Dale, or 1 player can control either chipmunk. Our heroes must conquer a series of oversized (from their perspective) stages in order to thwart Fatcat's nefarious schemes. For example, the first stage has the chipmunks hopping across the tables, chairs, and counters of a restaurant, and on through the kitchen. Many enemies try to slow the player's progress. The chipmunks' offensive ability is to pick up any of the copious blocks that litter the landscape and toss it in any of 5 directions (sideways, up, and diagonal-up). Along the way, there are scattered RR blocks for the heroes to collect. The other members of the Rescue Rangers -- Monty, Gadget, and Zipper -- are on hand to lend help out at key junctures.
+</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform, Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Cobra Triangle.nes</path>
+		<name>Cobra Triangle</name>
+		<thumbnail>./media/covers/Cobra Triangle.png</thumbnail>
+		<image>./media/screenshots/Cobra Triangle.png</image>
+		<marquee>./media/marquees/Cobra Triangle.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>Cobra Triangle is a single-player boat-racing game that lets you do more than race. It borrows the power-up system from the shoot 'em up genre but keeps the emphasis more on maneuvering than shooting. Since you have a health meter with a dozen bars in it, it's not that important to dodge bullets unless your health is really low, but you should try not to run into too many walls. In order to get very far you need to make use of your power-ups which are TURBO for better acceleration; FIRE for increased firepower; SPEED for increased top-speed; MISSILE for firing missiles as well as bullets; and FORCE which makes you fire tons of missiles and also makes you invincible for a limited time. You get roughly one minute to complete each level. Speaking of which, there are 7 types of levels each with a different objective:
+
+(1) Race to the Finish - Shoot other boats along the way to the finish line and avoid enemies like turrets and sharks. Some boats tow power-up pods behind them that you can collect after you shoot them. It doesn't matter when you finish, and you aren't told if you get 1st or 2nd or 3rd place... it seems that the other boats are only there to get in your way. Watch for the fork in the river; choosing alternate paths takes you to the same levels of the game but in a different order.
+
+(2) Collect the Pods - Simply race in a straight path while running over ramps to collect pods and 1UP's in the air. You go on to the next level when time runs out.
+
+(3) Dispose of Mines - There is a small square in the water with mines in it. You actually have to collect the mines and tow them to another square to make them explode. Of course, there is an invincible enemy boat that tries to steal them back from you and some guys that shoot at you. It takes awhile since you can only tow them one at a time.
+
+(4) Fry the Monster - The 'boss' levels. You fight a sea-serpent, a crab, a shark, etc. He has his own health display right above yours, but it tends to deplete slower.
+(BONUS) Shoot the Targets - after every boss level you go to an auto-scrolling level where you are rewarded with a 1UP prize if you manage to shoot all the targets along the shore without missing any.
+
+(5) Guard the People - There's a large square filled with 8 helpless swimmers, and for some reason they're all about to be kidnapped. Other boats race into the square and tow them away unless you destroy their ships before they get away. You can tow the people back into the square-if you have time-whil</desc>
+		<releasedate>19891025T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Contra.nes</path>
+		<name>Contra</name>
+		<thumbnail>./media/covers/Contra.png</thumbnail>
+		<image>./media/screenshots/Contra.png</image>
+		<marquee>./media/marquees/Contra.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+
+As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+		<releasedate>19901228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter, Shooter / Run and Gun, Shoot'em Up, Shoot'em up / Horizontal, Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Crystalis.nes</path>
+		<name>Crystalis</name>
+		<thumbnail>./media/covers/Crystalis.png</thumbnail>
+		<image>./media/screenshots/Crystalis.png</image>
+		<marquee>./media/marquees/Crystalis.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>October 1st, 1997 is known as END DAY. A great war encircles the globe and brings about an end to civilization. The surviving humans concluded that they could never repeat their mistakes and build a great tower in the sky to watch over the world and act accordingly to combat "evil". One hundred years have passed since then and a hidden cryogenic chamber in the mountains springs to life...
+
+Crystalis is a top-down action RPG. Starting from the cryogenic chamber, the player takes the role of a mysterious hero who must uncover the mystery of the tower. The character may equip weapons, armor, shields and globe/bracelets on his body and a single item from his inventory for use in the field. To aid in the hero's goal. he will meet up with the four wise people and learn their magic, while also obtaining the four elemental swords which will help him progress. Players gain experience and gold from defeating monsters. The experience is used to gain levels and improve statistics, however a minimum level is required before one can do damage to specific bosses. Gold is used to purchase items in shops.</desc>
+		<releasedate>19900701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Boy and His Blob, A - Trouble on Blobolonia.nes</path>
+		<name>David Crane's A Boy and His Blob : Trouble on Blob</name>
+		<thumbnail>./media/covers/Boy and His Blob, A - Trouble on Blobolonia.png</thumbnail>
+		<image>./media/screenshots/Boy and His Blob, A - Trouble on Blobolonia.png</image>
+		<marquee>./media/marquees/Boy and His Blob, A - Trouble on Blobolonia.png</marquee>
+		<video>./media/videos/Boy and His Blob, A - Trouble on Blobolonia.mp4</video>
+		<rating>0.65</rating>
+		<desc>Blob has come from the distant planet Blobolonia in search of an earth boy to help him save his world. Join him on this fantastic adventure in mysterious caverns beneath the earth searching for treasure. then travel to Blobolonia to battle the evil emperor. Discover Blob's amazing appetite for jellybeans and the different transformations that occur with each flavor. Learn to use these shapes to overcome even the most outrageous obstacles.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Imagineering</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Demon Sword.nes</path>
+		<name>Demon Sword</name>
+		<thumbnail>./media/covers/Demon Sword.png</thumbnail>
+		<image>./media/screenshots/Demon Sword.png</image>
+		<marquee>./media/marquees/Demon Sword.png</marquee>
+		<video />
+		<rating>0.6</rating>
+		<desc>In Demon Sword you play the part of the noble fighter Victar. Victar carries with him a sword which was used long ago to defeat the evil Dark Fiend who took over the land. Now he is back, and Victar must use the sword to defeat him once again.  The game is an arcade style platform game. You begin with just part of the demon sword, and after defeating a large monster at the end of each level an additional section of the sword is restored. After all six missing parts of the sword are found, you can attempt the final level to defeat the Dark Fiend. In addition to the sword pieces, there are other items which can be found during the levels to help out; these include keys to open mystic doors, spheres to restore life, and different types of weapons.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Donkey Kong.nes</path>
+		<name>Donkey Kong</name>
+		<thumbnail>./media/covers/Donkey Kong.png</thumbnail>
+		<image>./media/screenshots/Donkey Kong.png</image>
+		<marquee>./media/marquees/Donkey Kong.png</marquee>
+		<video />
+		<rating />
+		<desc>You are Mario, and that big old gorilla, Donkey Kong, has run off with your girlfriend. It's up to you to struggle up those ladders and balance on those beams to rescue your lady fair. She's held captive at the very top. But Donkey Kong is not ready to give her up so easily. He's tossing barrels and fireballs at you at every turn. It's up to you to outmaneuver that wily ape. Good luck, your lady awaits!</desc>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong 3.nes</path>
+		<name>Donkey Kong 3</name>
+		<thumbnail>./media/covers/Donkey Kong 3.png</thumbnail>
+		<image>./media/screenshots/Donkey Kong 3.png</image>
+		<marquee>./media/marquees/Donkey Kong 3.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Released in the arcades in 1983, Donkey Kong 3 is the third of the "Donkey Kong" arcade game series, changing the format to more of an action-shooter than a platform game. 
+
+As Stanley the Bugman, players are positioned under Donkey Kong, who has taken over a multi-level greenhouse.  Stanley's goal is to remove Donkey Kong from the greenhouse, but the big ape isn't willing to leave without a fight.
+
+Donkey Kong will agitate two beehives that are close to him to send down a swarm of angry Buzzbees, Beespies and destructive Queen Bees toward Stanley.  These insects, as well as caterpillars which creep down nearby vines are intent on destroying the flowers below Stanley.  Donkey Kong will also send down projectiles himself in an attempt to stop Stanley's attacks.  Stanley must jump between the levels and use his bugspray to repel the insects, and send Donkey Kong into the next area of the greenhouse.
+
+Once Stanley pushes Donkey Kong high enough, a can of super bugspray will become available, allowing a larger shooting radius, and is able to send Donkey Kong up the vines faster.
+
+Once Donkey Kong is sent through the three levels of the greenhouse, Donkey Kong will end up with a beehive on his head, and the levels start all over again.</desc>
+		<releasedate>19840704T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr..nes</path>
+		<name>Donkey Kong Jr.</name>
+		<thumbnail>./media/covers/Donkey Kong Jr..png</thumbnail>
+		<image>./media/screenshots/Donkey Kong Jr..png</image>
+		<marquee>./media/marquees/Donkey Kong Jr..png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Mario has kidnapped Junior's Papa!
+
+Donkey Kong Jr. was originally released in the arcades in 1982 as a sequel to Donkey Kong.  In this game, Mario plays the antagonist, finally having captured Donkey Kong, and has put the ape in a locked cage.  As Donkey Kong Jr., players will have to make their way through four different levels (Vines, Springboard, Chains and Mario's Hideout) in an attempt to find keys to free the little monkey's Father.
+
+Along the way, Mario will send out Snapjaws, swooping purple birds, and electric sparks in an attempt to stop Junior.  Junior can defend himself by dropping fruit found around the levels on the heads of his foes.  The more foes a piece of fruit hits in a falling sequence, the higher bonus points can be scored.
+
+Junior can also avoid enemies more easily by grabbing hold of two chains or vines at a time to climb away faster, or by jumping over his foes.  However, any long fall or falling into the water on certain levels will mean the loss of a life for Junior.
+
+In the final cut scene, Junior will free Donkey Kong and both will escape after giving Mario the boot.  Once all four levels are cleared, the game levels will start over at a higher difficulty.
+
+Like the original Donkey Kong, the earlier 1980's console versions do not have all of the levels and animations from the arcade.
+</desc>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Double Dragon II - The Revenge.nes</path>
+		<name>Double Dragon II : The Revenge</name>
+		<thumbnail>./media/covers/Double Dragon II - The Revenge.png</thumbnail>
+		<image>./media/screenshots/Double Dragon II - The Revenge.png</image>
+		<marquee>./media/marquees/Double Dragon II - The Revenge.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>The lovely Marian was rescued from the clutches of the Black Warriors gang by Billy &amp; Jimmy Lee in the first Double Dragon game, but now the gang has killed her in retaliation of their early defeat. The Dragons must now embark on a mission to avenge her death and defeat the Black Warriors for the second and final time.
+
+The original arcade version of "Double Dragon II" was essentially an improved version of the first game. In addition to offering renewed audio and visuals, as well as new traps, moves and enemy characters, "Double Dragon II" discarded the conventional punch and kick buttons in favor of a direction-oriented attacking system similar to the original Technos beat-em-up Renegade.
+
+The NES version offered new stages, new moves and illustrated cut-scenes, as well as a new final boss and a new ending. Unlike the first NES game, it offered 2-Player Co-Op gameplay with the option to turn off the friendly fire.
+
+The Game Boy version of "Double Dragon II" is an English localization of a "Kunio-kun" game (the Japanese franchise which inspired "Renegade" and "River City Ransom" and has nothing to do with the arcade and NES versions.
+</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Beat'em Up, Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Double Dragon III - The Sacred Stones.nes</path>
+		<name>Double Dragon III : The Sacred Stones</name>
+		<thumbnail>./media/covers/Double Dragon III - The Sacred Stones.png</thumbnail>
+		<image>./media/screenshots/Double Dragon III - The Sacred Stones.png</image>
+		<marquee>./media/marquees/Double Dragon III - The Sacred Stones.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The final game in the trilogy.
+
+Billy and Jimmy Lee are returning from martial arts training when their paths cross a fortune teller. She tells them of a great evil in Egypt, their strongest adversary yet, and how the Rosetta Stones can aid them.
+
+This game features weapon shops where Billy and Jimmy can buy power-ups, tricks, energy and extra lives to aid them in 
+their quest.
+
+Power-ups make Billy and Jimmy twice their size, increasing their damage done and range of attack.
+
+The character graphics have changed, moving away from cartoon style graphics to more realistic looking characters.
+</desc>
+		<releasedate>19941124T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dr. Mario.nes</path>
+		<name>Dr. Mario</name>
+		<thumbnail>./media/covers/Dr. Mario.png</thumbnail>
+		<image>./media/screenshots/Dr. Mario.png</image>
+		<marquee>./media/marquees/Dr. Mario.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>In this Tetris-style game, you play as Dr. Mario, who must drop differently coloured pills onto viruses to remove them from the bottle. Each pill is split into two, with each side a different colour. Match that colour to the colour of the virus, and it will be removed from the bottle.
+
+Included in the game is the normal mode, a time trial, and a two player battle mode to see who can remove the most viruses.</desc>
+		<releasedate>19900727T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game, Strategy</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Dragon Warrior.nes</path>
+		<name>Dragon Warrior</name>
+		<thumbnail>./media/covers/Dragon Warrior.png</thumbnail>
+		<image>./media/screenshots/Dragon Warrior.png</image>
+		<marquee>./media/marquees/Dragon Warrior.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Dragon Warrior is the first famous console RPG. You assume the role of a descendant of Erdrick, a brave warrior of the past. Once upon a time, Erdrick defeated the evil Dragonlord with the help of the Ball of Light. Now, Dragonlord stole the Ball of Light, and your mission is to recover it and to restore peace in the world.
+
+In Dragon Warrior, you move your character around in a top-down world. In cities and palaces you can talk to people, rest in inns and buy stuff in shops. There's a variety of weapons, equipment and armor to buy. 
+
+When wandering around in the wilderness, you occasionally encounter enemies, and fight them from 1st person perspective. Combat is turn based: you select menu options while fighting - you can attack with your weapon, cast a spell (using up some of your magic energy), use and item or try to run. Killing monsters gives you experience, and, as is typical for RPGs, you level up and improve your stats when you gain enough experience. 
+
+Like in later RPGs, you have limited hit points, lose them when you are attacked by enemies, and die when you run out of them. When your character dies in a battle, he is automatically restored in a nearby town.</desc>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Dragon Warrior II.nes</path>
+		<name>Dragon Warrior II</name>
+		<thumbnail>./media/covers/Dragon Warrior II.png</thumbnail>
+		<image>./media/screenshots/Dragon Warrior II.png</image>
+		<marquee>./media/marquees/Dragon Warrior II.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>Dragon Warrior II is an early top-down RPG that expands and improves on its predecessor, Dragon Warrior. Taking the role of a descendant of Erdrick, the player once again ventures forth in an effort to save the world.
+
+Unlike the first game, Dragon Warrior II allows the player to join forces with two other characters, a magic-using princess and a wizard-warrior prince. Also including expanded monster battles involving up to 6 creatures and a much larger world, Dragon Warrior II is an important step in the evolution of the Dragon Warrior series.</desc>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Dragon Warrior III.nes</path>
+		<name>Dragon Warrior III</name>
+		<thumbnail>./media/covers/Dragon Warrior III.png</thumbnail>
+		<image>./media/screenshots/Dragon Warrior III.png</image>
+		<marquee>./media/marquees/Dragon Warrior III.png</marquee>
+		<video />
+		<rating>0.6</rating>
+		<desc>Dragon Warrior III is the concluding game of the first Dragon Quest/Dragon Warrior trilogy, and its story takes us back to the time period of the legendary Erdrick (also known as Loto), the ancestor of the first game's hero. You are the son of a powerful warrior Ortega, skillful in physical combat and spellcasting. Your father went out to fight the evil Baramos, who is responsible for the appearance of monsters in your region, and never returned. You are sent by the king on a quest to continue your father's brave deeds and to defeat Baramos.
+
+Dragon Warrior III is a top-down role-playing game where you travel around the overworld, caves, castles, cities and other locations while battling random encounters, buying equipment, and talking to people. You and your party members receive experience when they beat up monsters and level up with enough experience, increasing their stats. The game features a day/night cycle - as you travel, day slowly changes to night and vice versa; shops are typically closed at night. 
+
+You begin with control of just the main character but can quickly recruit three more members to your party. During the game you can choose to drop your current characters and recruit others at any time. The recruitable characters are divided into six classes: soldier, fighter, merchant, goof-off, pilgrim and wizard.
+
+The game has a unique job system, giving you the ability to switch your hired characters' classes after they have achieved at least level 20 in their base class. Characters can switch to the other beginning classes, as well as the sage class, which is not available at the beginning. When a character switches classes, they lose all earned experience points, and half of their stats, but retain all of the abilities of the previous class. In this way, you can create powerful combination characters that are able to cast spells and fight effectively.</desc>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dragon Warrior IV.nes</path>
+		<name>Dragon Warrior IV</name>
+		<thumbnail>./media/covers/Dragon Warrior IV.png</thumbnail>
+		<image>./media/screenshots/Dragon Warrior IV.png</image>
+		<marquee>./media/marquees/Dragon Warrior IV.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Dragon Warrior 4, the fourth volume in the Dragon Warrior series (and the last on the NES), once again took the elements of the previous games and expanded them into a five chapter saga of epic proportions.
+  The first four chapters are played from the viewpoint of one character per chapter, who will all meet up in the fifth chapter.  From a soldier to a merchant, the game weaves an intriguing story that ties all four characters together in the end.
+  Also new in Dragon Warrior 4 is the introduction of battle tactics where the lineup of the characters is important to how much damage they deal.  The player is even given the opportunity to swap a character from reserve into the battle to add a whole new depth of strategy.</desc>
+		<releasedate>19921002T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Duck Hunt.nes</path>
+		<name>Duck Hunt</name>
+		<thumbnail>./media/covers/Duck Hunt.png</thumbnail>
+		<image>./media/screenshots/Duck Hunt.png</image>
+		<marquee>./media/marquees/Duck Hunt.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
+
+Mode C features target practice on clay pigeons rather than ducks. The perspective and rules here are the same, with only three shots to destroy two clay pigeons before they disappear off the horizon. Destroy enough clay pigeons to move on to the next, tougher round.</desc>
+		<releasedate>19840421T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter, Sports</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Duck Tales.nes</path>
+		<name>DuckTales</name>
+		<thumbnail>./media/covers/Duck Tales.png</thumbnail>
+		<image>./media/screenshots/Duck Tales.png</image>
+		<marquee>./media/marquees/Duck Tales.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>Duck Tales for NES is a traditional platform game in which the player takes the role of greedy Scrooge McDuck in search of treasures around the globe. He counts on his three nephews and on other Duck Tales characters to help him in his quest through inospit places such as the Amazononic forest, the African Mines, the Himalayas, Transylvania (where he meets Dracula Duck) and even the Moon.
+
+Each one of them reserves the old duck lots of adventure, different enemies and hidden rooms.
+
+The game features a 2D side-scrolling platform gameplay very similar to Mega Man. Graphics are colorful and cartoonish, music remembers players of the TV series and controls are very simple.
+</desc>
+		<releasedate>19901214T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Excitebike.nes</path>
+		<name>Excitebike</name>
+		<thumbnail>./media/covers/Excitebike.png</thumbnail>
+		<image>./media/screenshots/Excitebike.png</image>
+		<marquee>./media/marquees/Excitebike.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Race by yourself against the clock or compete with other motocross riders on 5 tracks full of long straights, large jumps and obstacles to win the Excitebike championship.
+
+Create your own tracks by placing jumps and obstacles of all different sizes and shapes on the track and choosing how many laps each race will have, then race against the clock or other riders to see how your track fares in competition.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving, Sports</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Faxanadu.nes</path>
+		<name>Faxanadu</name>
+		<thumbnail>./media/covers/Faxanadu.png</thumbnail>
+		<image>./media/screenshots/Faxanadu.png</image>
+		<marquee>./media/marquees/Faxanadu.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>This 2D platformer has elements of role-playing and adventure in addition to side-scrolling action.
+
+The story is a classic one of good versus evil.  Disaster strikes the once peaceful Elf town of Eolis. The sky rains meteorites upon the World Tree - wild animals and evil monsters terrorize the citizens - the water supply from the wells is dwindling - plants are withering - people are dying. Only you can restore peace to the land by conquering the Evil One, who lives in the Evil Place.
+
+There are many places you must visit during your quest including the medieval town, where you begin, country villages, fortresses, caves, and gloomy bogs - each with its own ambiance and musical score.  You will be talking with the villagers, collecting gold to buy weapons, armor and other objects, jumping over obstacles and using items.  Attack zombies, dwarves, giant snakes, wyverns, evil gnomes, or one-eyed one-footed things with a large collection of swords and daggers or zap them with a magic spell. 
+
+As areas are completed by defeating enemies, your character rises up in “levels” and achieves a new “rank” which is tied directly to the restore password (called a “mantra” in the game). The higher your “rank”, the more gold you start out with.  Saving a game can only be done in a shrine or temple with a priest.  This is also where you are transported when you restart the game - or if you die.</desc>
+		<releasedate>19901228T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fester's Quest.nes</path>
+		<name>Fester's Quest</name>
+		<thumbnail>./media/covers/Fester's Quest.png</thumbnail>
+		<image>./media/screenshots/Fester's Quest.png</image>
+		<marquee>./media/marquees/Fester's Quest.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>Uncle Fester was out one night, moonbathing in the yard of the Addams Family property one day when suddenly, out of the sky, a UFO descended and started beaming alien creatures to the planet. Grabbing his gun, Fester sets off to stop the aliens and slay their boss creatures, encountering other Addams Family members along the way who will aid him.
+
+Fester's Quest is an overhead-view game in which Uncle Fester uses his gun, or later, a whip to attack enemies near him. Enemies drop money and power-ups. The money can be used at Hot Dog stands to replenish health. A variety of items can be collected, each with a different effect. Fester and the rest of the Addams family are based on their characters from the popular 1960s TV show (this game was made before the remakes in  both series and movie form).</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Final Fantasy.nes</path>
+		<name>Final Fantasy</name>
+		<thumbnail>./media/covers/Final Fantasy.png</thumbnail>
+		<image>./media/screenshots/Final Fantasy.png</image>
+		<marquee>./media/marquees/Final Fantasy.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Hironobu Sakaguchi's Final Fantasy... the first of one of the longest role-playing game series known to mankind. Final Fantasy is the game for the NES console that started it all.
+
+The world is veiled in darkness. Winds don't blow, the seas are stormy, and the earth rots. All people can hope for is that the ancient prophecy will be finally fulfilled. "When the world is veiled in darkness, four warriors will come..." And indeed, they come - the four characters you have previously chosen. Their first quest is to free a princess from the evil Garland, and then the real journey begins...
+
+Final Fantasy is played with an adventuring party rather than with a single character. Before the game starts, the player chooses four characters from six different classes: Fighter, Thief, Black Belt, White Mage, Red Mage, and Black Mage. Which four classes the player chooses for his characters is entirely up to him. He also gives the characters names. 
+
+In the game, the party walks around in a top-down world, visits cities, caves, palaces and other places to buy equipment, rest and get hints and new quests, and fights baddies when they are encountered. Final Fantasy uses a turn-based combat system; the ATB (active-time battle) system from the later installments is not used. In battle, the player gives each character in order a command (attack a particular enemy, cast a spell, use an item, or try to run.) Then the characters and the enemies act in a random order. Attacked enemies and party members lose hit points, dying when they reach zero HP. When all the enemies are defeated, living party members receive experience, eventually gaining a level and improving their stats when enough experience is accumulated. Slain party members can be revived in towns for a price. 
+
+Spells are bought in cities in special shops. The spells are divided into two categories - white magic and black magic. White Mages can only use white magic, Black Mages can only use black magic, and Red Mages can use both. Casting spells in battle uses up magic points, which, like hit points, can be restored by resting in inns.</desc>
+		<releasedate>19900712T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Friday the 13th.nes</path>
+		<name>Friday the 13th</name>
+		<thumbnail>./media/covers/Friday the 13th.png</thumbnail>
+		<image>./media/screenshots/Friday the 13th.png</image>
+		<marquee>./media/marquees/Friday the 13th.png</marquee>
+		<video />
+		<rating>0.45</rating>
+		<desc>Based on the popular movie franchise, Friday the 13th casts you as one of six camp counselors (three girls or three boys) at the infamous Camp Crystal Lake, and you are tasked with destroying Jason Voorhees once and for all.
+
+To get to Jason, you must run around a camp, killing zombie ghouls and collecting weapons, until you hear an alarm sound.  When that alarm goes off, it means Jason has entered a cabin and you must find him.
+
+To save time, you can switch between all six counselors, depending on where you are.  Once you enter the house that Jason is in, the game switches to a 3D-esque maze in which you have to hurt Jason with the items you collected.  Once he's been damaged enough, he'll run away, only to sound another alarm later and enter another house.</desc>
+		<releasedate>19890202T000000</releasedate>
+		<developer>Pack In Video</developer>
+		<publisher>LJN</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gargoyle's Quest II.nes</path>
+		<name>Gargoyle's Quest II</name>
+		<thumbnail>./media/covers/Gargoyle's Quest II.png</thumbnail>
+		<image>./media/screenshots/Gargoyle's Quest II.png</image>
+		<marquee>./media/marquees/Gargoyle's Quest II.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The Ghoul realm is under attack by a mysterious force and aspiring warrior Firebrand sets out to save it.
+
+As in its predecessor, gameplay in Gargoyle's Quest II is divided into an adventure and an action part. During the adventure parts, Firebrand explores a world map and several villages from a top-down perspective, talking to his fellow ghouls and zombies to advance the story or receive important items. Action parts are seen from a side-scrolling perspective. In these parts of the game, Firebrand has the ability to jump, cling to walls, fly for a limited amount of time and shoot fireballs at his enemies. As the game progresses, Firebrand becomes more and more powerful, receiving items that improve his agility, armor or attack power.</desc>
+		<releasedate>19930617T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ghosts 'N Goblins.nes</path>
+		<name>Ghosts'n Goblins</name>
+		<thumbnail>./media/covers/Ghosts 'N Goblins.png</thumbnail>
+		<image>./media/screenshots/Ghosts 'N Goblins.png</image>
+		<marquee>./media/marquees/Ghosts 'N Goblins.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Ghosts'n Goblins is a sideways scrolling action platformer spread over six levels, each of which must be completed within three minutes (or a life is lost), taking in forest, village, mountain and cavern settings with increasing difficulty.
+
+Arthur the brave knight must rescue his beloved Princess from the Demon King Astaroth and his forces - amongst them are the various undead (ghosts, zombies), bats, ogres and goblins. Other challenges include moving platforms, ladders and water/fire hazards. 
+
+As in most games in this genre, the player can pick up power-ups such as daggers and bombs during the course of the game, giving the player greater firepower.
+</desc>
+		<releasedate>19890323T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Golf.nes</path>
+		<name>Golf</name>
+		<thumbnail>./media/covers/Golf.png</thumbnail>
+		<image>./media/screenshots/Golf.png</image>
+		<marquee>./media/marquees/Golf.png</marquee>
+		<video />
+		<rating>0.5</rating>
+		<desc>Golf features two challenging 18 hole courses where players are able to play a round of golf, and allows players to choose a club, adjust stance and control the swing. The game features three alternating views; an overhead long-range view of the entire hole, an overhead medium-range view from the ball's current location, and an overhead close-range view of the green. Gameplay modes include 1 player, or 2 player play with a link cable.</desc>
+		<releasedate>19861115T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Golf, Sports</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Goonies II, The.nes</path>
+		<name>Goonies II, The</name>
+		<thumbnail>./media/covers/Goonies II, The.png</thumbnail>
+		<image>./media/screenshots/Goonies II, The.png</image>
+		<marquee>./media/marquees/Goonies II, The.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>In a movie released in the 1980s, a group of youngsters formed a special gang and called themselves The Goonies.  Nintendo banked upon the movie’s popularity by releasing several games using the characters and music from it, including the theme song by Cyndi Lauper.  This is their second game on NES, The Goonies being released only for the Famicom system outside the United States.
+
+You play Mikie, one of the gang members, whose friends have been kidnapped by the gang’s arch enemy – the Fratelli family.  Your buddies and Annie the Mermaid must be rescued, but it won’t be easy sneaking into the dark and creepy underground hideout where they are being held.  You must find a way to destroy their master computer and keep your friends from becoming road kill.  If Ma Fratelli or crazy Cousin Pipsqueak doesn’t stop you, one of her two crazy sons will!
+
+Upon starting the game, Mikie is armed only with a yo-yo and the ability to jump.  As the game progresses, he will find boomerangs, a gun, bombs, molotave cocktails and even scuba gear to help him. Fight snakes, spiders, skeletons, man-eating fish while exploring the huge world full of cellars, secret caverns and elaborate mazes.
+
+There is more than typical side-scrolling action, although there’s certainly a multitude of that.  Seventeen magic implements and many secret messages await you.  When Mikie enters a room he can talk to NPCs and try to find hidden items and doors by hitting the walls.  A password lets you keep your possessions for the next game.</desc>
+		<releasedate>19881219T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Goonies, The.nes</path>
+		<name>Goonies, The</name>
+		<thumbnail>./media/covers/Goonies, The.png</thumbnail>
+		<image>./media/screenshots/Goonies, The.png</image>
+		<marquee>./media/marquees/Goonies, The.png</marquee>
+		<video />
+		<rating>0.6</rating>
+		<desc>The Goonies is based on a movie of the same name from 1985. A group of youngsters from a neighborhood called the "Goon Docks" are trying to find the lost treasure of One-Eyed Willie to prevent the foreclosure of their houses. Unfortunately, the treasure is buried under the hide-out of the infamous Fratelli gang, a family of ruthless criminals who are on the run from the law. You play as the asthmatic Mikey, who must find the treasure and save the other Goonies before time runs out.
+
+The game consists of six levels. In each level, you must collect three keys to advance to the next area. These can be found by blowing open doors with bombs that are dropped by enemies. Also hidden behind doors are power-ups and other Goonies to rescue. Trying to stop you are enemies such as rats, skeletons, and even members of the Fratelli Gang. Bonus points can be gained by picking up diamonds and other valuables, rescuing the other Goonies, or by dispatching enemies with your slingshot or kicking them.
+
+Unlike the sequel, the Famicom version was never released outside of Japan.</desc>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gradius.nes</path>
+		<name>Gradius</name>
+		<thumbnail>./media/covers/Gradius.png</thumbnail>
+		<image>./media/screenshots/Gradius.png</image>
+		<marquee>./media/marquees/Gradius.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it's up to you to fly into battle and save them. Along the way you'll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. Based on the arcade game, Gradius is a side scrolling shooter. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating.</desc>
+		<releasedate>19881130T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up, Shoot'em up / Horizontal, Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Guardian Legend, The.nes</path>
+		<name>Guardian Legend, The</name>
+		<thumbnail>./media/covers/Guardian Legend, The.png</thumbnail>
+		<image>./media/screenshots/Guardian Legend, The.png</image>
+		<marquee>./media/marquees/Guardian Legend, The.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>In the far future, Earth is a peaceful place with very few worries.  To ensure it stays that way, a top secret project was authorized: the creation of the guardian suit.  It's a suit of flight armor that allows the guardian to survive any environment.  It's a good thing too, because a giant space station is spotted on a collision course with Earth.
+
+You take the role of the guardian.  Your mission is to activate the station's self-destruct and destroy it before it collides with Earth.  As you travel through the station NAJU, you'll find increased armor and better weapons to help you defeat waves of enemies.  You'll battle through the station in a human form and also as a jet in certain areas.</desc>
+		<releasedate>19890402T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Compile</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ice Climber.nes</path>
+		<name>Ice Climber</name>
+		<thumbnail>./media/covers/Ice Climber.png</thumbnail>
+		<image>./media/screenshots/Ice Climber.png</image>
+		<marquee>./media/marquees/Ice Climber.png</marquee>
+		<video />
+		<rating>0.6</rating>
+		<desc>In Ice Climber one or two players need to climb their way to the top of 32 different mountains. Each mountain is broken up into eight levels of platforms along with a bonus stage at the top. Attempting to stop you from making upward progress are different creatures ranging from polar bears to condors as well as treacherous landscapes with falling icicles, moving platforms, and icy floors. To help out, your only weapon is a mallet which can be used to knock out enemies as well as bust away bricks in the platforms to give you some room to jump up to the next level. When you finally reach the top, it's time to move on to the next, more difficult level.</desc>
+		<releasedate>19850130T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Ice Hockey.nes</path>
+		<name>Ice Hockey</name>
+		<thumbnail>./media/covers/Ice Hockey.png</thumbnail>
+		<image>./media/screenshots/Ice Hockey.png</image>
+		<marquee>./media/marquees/Ice Hockey.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Ice Hockey is an action game for one or two players. Start of by selecting a team and customizing your players. Each team member can be one of three player types: small and skinny (very fast, but not good at checking or shooting), very large (slow, but with a strong body check and outstanding shooting strength) or average (medium speed, with average checking and shooting strength). After the teams are set up, it's time to play some ice hockey! Gameplay features a scrolling screen to follow the action, and lets you choose which of the players you wish to control when on defense (on offense you always control the player with the puck). Fights can break out between players, and the loser may end up in the penalty box. There are five different speed settings for the game, and periods can be either 7, 10, or 15 minutes long.</desc>
+		<releasedate>19880302T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Hockey, Sports</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Ikari Warriors III - The Rescue.nes</path>
+		<name>Ikari III : The Rescue</name>
+		<thumbnail>./media/covers/Ikari Warriors III - The Rescue.png</thumbnail>
+		<image>./media/screenshots/Ikari Warriors III - The Rescue.png</image>
+		<marquee>./media/marquees/Ikari Warriors III - The Rescue.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>The presidential candidate's daughter has been kidnapped! It is your job to get past enemy lines and rescue her. This is the third game in the Ikari Warriors series, and features similar arcade/action gameplay. The screen is a top down view which scrolls vertically, with numerous bad guys to defeat. You start the game with just your fists, and as the levels progress you can find weapons and other objects to help you out.
+</desc>
+		<releasedate>19910201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ikari Warriors.nes</path>
+		<name>Ikari Warriors</name>
+		<thumbnail>./media/covers/Ikari Warriors.png</thumbnail>
+		<image>./media/screenshots/Ikari Warriors.png</image>
+		<marquee>./media/marquees/Ikari Warriors.png</marquee>
+		<video />
+		<rating>0.5</rating>
+		<desc>A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.</desc>
+		<releasedate>19890810T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ikari Warriors II - Victory Road.nes</path>
+		<name>Ikari Warriors II : Victory Road</name>
+		<thumbnail>./media/covers/Ikari Warriors II - Victory Road.png</thumbnail>
+		<image>./media/screenshots/Ikari Warriors II - Victory Road.png</image>
+		<marquee>./media/marquees/Ikari Warriors II - Victory Road.png</marquee>
+		<video />
+		<rating>0.4</rating>
+		<desc>Heavy on the action, Ikari Warriors became a favorite both in the arcades and on home consoles. To fuel that frenzy, SNK and Tradewest teamed up again for a sequel, Victory Road, released later that same year.
+
+This time, the Ikari Warriors take on more cosmic foes, battling rock-headed beasts, one-eyed green men and other odd creatures.
+</desc>
+		<releasedate>19880402T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Wizards &amp; Warriors II - Ironsword.nes</path>
+		<name>IronSword : Wizards &amp; Warriors II</name>
+		<thumbnail>./media/covers/Wizards &amp; Warriors II - Ironsword.png</thumbnail>
+		<image>./media/screenshots/Wizards &amp; Warriors II - Ironsword.png</image>
+		<marquee>./media/marquees/Wizards &amp; Warriors II - Ironsword.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>After the death of the evil wizard Malkil, he has returned.
+You are the mightiest warrior of them all, Kuros. And you have been summoned to the land of Sindarin to destroy Malkil "again".
+Malkil has now taken the shape of the four elements, water, wind, air and fire. To destroy the wizard this time you have to collect the shattered pieces of the Legendary Ironsword throughout the world of Sindarin. There exist four animal kings in the land and they will help you in your quest.
+</desc>
+		<releasedate>19910327T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform, Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jackal.nes</path>
+		<name>Jackal</name>
+		<thumbnail>./media/covers/Jackal.png</thumbnail>
+		<image>./media/screenshots/Jackal.png</image>
+		<marquee>./media/marquees/Jackal.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The enemy army has captured too many of your forces. Being held in P.O.W. camps, these soldiers are effectively out of the war... unless some kind of rescue operation can be mounted. Heavy Forces are too slow and visible to be of any use, but perhaps something smaller and lighter may make it in where larger forces would fail. A small jeep, maybe two, crewed by about 4 people.... minimal enough not to represent too much of a loss and yet suitable enough to aid in rescue. But of course, if these brave men want to succeed AND come back alive; they'll need to fight like animals... they'll need to fight like jackals...
+
+Jackal is an overhead view jeep game for up to 2 players. The controller moves in four directions, button A fires your gernades (upgradable to bazooka) and button B your machine gun which ALWAYS fires to the top of the screen. Your mission is to locate facilities where soldiers are being held prisoner, rescue as many as possible, and escort them to a safe landing zone where they will be air transported away. After that, you'll need to fight a boss battle against the enemy to progress.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Journey to Silius.nes</path>
+		<name>Journey to Silius</name>
+		<thumbnail>./media/covers/Journey to Silius.png</thumbnail>
+		<image>./media/screenshots/Journey to Silius.png</image>
+		<marquee>./media/marquees/Journey to Silius.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>The year is 0373 in the new space age calendar. The earth's population is growing rapidly, and people are now forced to start space colonies. Jay McCray is among those leaving earth and heading to the colony in the Silius solar system. Unfortunately, terrorists have destroyed a research colony there. Jay's father was killed in this attack, and now Jay vows to destroy the terrorists responsible and to continue the research his father was working on. Journey To Silius is a side scrolling platform game. On each level there are a wide variety of robot enemies guarding the terrorist's fortress, along with several weapons to find which make your mission easier. There are a total of six stages, each ending with a very large boss.</desc>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Kickle Cubicle.nes</path>
+		<name>Kickle Cubicle</name>
+		<thumbnail>./media/covers/Kickle Cubicle.png</thumbnail>
+		<image>./media/screenshots/Kickle Cubicle.png</image>
+		<marquee>./media/marquees/Kickle Cubicle.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>Kickle Cubicle is a Lolo type sliding puzzle game where the Wicked Wizard King covered the kingdom with ice and hid the people and palaces deep within the ice.
+
+Armed with his freezing breath, Kickle sets out to save his friends and attempts to rescue the kingdom from this puzzling predicament of perpetual winter.
+
+Each level has a fixed time limit and enemies that will try and block your progress. The four lands (Garden, Fruit, Cake and Toy) have 17 or 18 puzzles in each. Beat all of those and there is a Special Stage with 30 more challenging puzzles.
+
+Your main options are to move, make a block of ice and slide a block of ice.
+
+Objects appearing in puzzles include: 
+
+1. Rock: You cannot go over these but you can use them to stop sliding ice cubes.
+Slippery Ice: Enemies can not go there.
+Base Rock: These can not be destroyed and enemies generate from them.
+Spring: Springs an ice cube across the screen.
+Water Hole: You can't fill or walk across these holes in the ice.
+Breaker: Shatters ice cubes that strike its corners.
+Hammer: Changes ice cube direction and hits enemies.
+Power Rock: Hit this and all enemies will freeze.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Kid Icarus.nes</path>
+		<name>Kid Icarus</name>
+		<thumbnail>./media/covers/Kid Icarus.png</thumbnail>
+		<image>./media/screenshots/Kid Icarus.png</image>
+		<marquee>./media/marquees/Kid Icarus.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Far away in peaceful Angel Land lived a young angel warrior named Pit, who has been given the task of defeating the monstrous Medusa, who wishes to destroy Angel Land and all of the people, and she has started by kidnapping Palutena, the Princess of Angel Land.
+
+Young Pit must rescue the Princess and restore peace to Angel Land. He will travel from the deep caverns of the Underworld to Medusa's palace in the sky on his journey, and deadly monsters will attack him every step of the way. But he has the power of the Gods on his side! A powerful bow and arrows, Water of Life, and Angel Feathers will assist Pit on his quest to destroy Medusa and save the princess!
+
+Kid Icarus is a platform game where the player goes through several vertically outlaid levels, shooting enemies with his bow on the way and collecting hearts they leave behind. Pit's bow can shoot both forward and upwards. As Pit continues upwards, more and more of the level ends up beyond the bottom of the screen and if Pit falls down out of the screen, he dies. 
+
+The levels contain doors which lead to chambers of various types - some chambers are filled with enemies, some are treasuries which allow Pit to obtain a power-up, some are stores where Pit can buy stuff, some will replenish his health, in some Pit will be able to take a test in hopes of getting a powerful weapon, and finally some chambers give Pit a chance of receiving a strength upgrade, therefore increasing the amount of damage his attacks deal. 
+
+Pit earns experience as he defeats enemies, and he gains levels from this experience. The more levels Pit has, the more maximum health he has. 
+
+Hearts taken from enemies are used in shops to buy various items and power-ups. Items include a protective shield which harms enemies, a more powerful bow, a mallet which allows you to smash the poor Palutena's warriors turned to stone who will later help you to fight a boss, a torch to see yourself in dark areas and others.</desc>
+		<releasedate>19861219T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Kid Niki.nes</path>
+		<name>Kid Niki : Radical Ninja</name>
+		<thumbnail>./media/covers/Kid Niki.png</thumbnail>
+		<image>./media/screenshots/Kid Niki.png</image>
+		<marquee>./media/marquees/Kid Niki.png</marquee>
+		<video />
+		<rating>0.4</rating>
+		<desc>In this side scrolling action game, Kid Niki must rescue his beloved Princess Margo who has been kidnapped by the Stone Wizard. You are equipped with a Spinning Sword to clear any minions that stand in your way. You can also find a Golden Bell, whose chime slays from a distance, a Silver Bell, which creates an impenetrable shield of sound around you, a Mini-Niki, which grants you an extra life, and a Mini-Princess, which averts one death. There are seven realms you must traverse which each having a boss at the end. The seven bosses are Death Breath, Spike, the Stone Buddha, the Horned Witch, the Green Grub, the Mad Monk, the Samurai Guard, and the Stone Wizard,</desc>
+		<releasedate>19871101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Adventure.nes</path>
+		<name>Kirby's Adventure</name>
+		<thumbnail>./media/covers/Kirby's Adventure.png</thumbnail>
+		<image>./media/screenshots/Kirby's Adventure.png</image>
+		<marquee>./media/marquees/Kirby's Adventure.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The Dream Spring, the source of all dreams, has dried up, causing all the dreams of Dream Land to disappear. Now it's up to Kirby to rescue Dream Land! 
+
+Kirby's Adventure is an action/adventure side scrolling platform game. As the pink puffball Kirby you will explore numerous, colorful lands with a variety of enemies to defeat. To help out on his journey, Kirby has the ability to eat enemies and spit them out as projectiles. With certain enemies Kirby can capture their abilities and e.g. gain a sword, shoot lasers, or even fly around the level. There are seven different stages, each broken up into multiple levels, and sometimes also containing a couple of bonus mini-games. The game cartridge features a battery backup allowing games to be saved without the need for passwords.</desc>
+		<releasedate>19931209T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Klax.nes</path>
+		<name>Klax</name>
+		<thumbnail>./media/covers/Klax.png</thumbnail>
+		<image>./media/screenshots/Klax.png</image>
+		<marquee>./media/marquees/Klax.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Tengen</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kung Fu.nes</path>
+		<name>Kung Fu</name>
+		<thumbnail>./media/covers/Kung Fu.png</thumbnail>
+		<image>./media/screenshots/Kung Fu.png</image>
+		<marquee>./media/marquees/Kung Fu.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>You'll need lightning fast reactions to knock out the Knife Thrower, stop the Stick Fighter, and trip up the evil Tom Tom Brothers in this action-packed martial arts contest! Are you sure you're tough enough? Because it'll take all your strength and skill to master the moves in KUNG FU, beat your opponents, and rescue the fair Sylvia who's held captive on the top floor! The action is non-stop, and just when you think you've got your enemies licked there's always a Giant, a Snake, or a fire-breathing Dragon to contend with in KUNG FU!</desc>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The.nes</path>
+		<name>Legend of Zelda, The</name>
+		<thumbnail>./media/covers/Legend of Zelda, The.png</thumbnail>
+		<image>./media/screenshots/Legend of Zelda, The.png</image>
+		<marquee>./media/marquees/Legend of Zelda, The.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
+
+The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
+
+The game is drawn in a top-down perspective. Link begins his quest in the Overworld, which features forests, mountains and lakes and is divided into several screens. Link can explore the Overworld freely, though when he enters a screen, he will encounter several enemies. He can attack them with his sword. If link is at full health, he can toss his sword to attack enemies from afar, but when he is hurt, even slightly, he can only fight in melee range. 
+
+Link's health is represented by hearts; initially he can have a maximum of three hearts, but as he progresses in the game, he will find heart containers that increase his maximum health. The enemies are varied - some attack from up close, some shoot projectiles. When killed, they often leave behind an item - a heart to restore energy, rupees that function as money (and can be used to buy stuff in various shops in the Overworld), or bombs which can be picked up and set down to attack enemies or destroy some walls. When enemies are killed, they stay dead and will not re-appear once the screen is entered again. 
+
+There are other items to find in the game; some function as weapons, while others are used to solve puzzles. 
+
+To find the Triforce pieces, Link must explore dungeons. Once he finds an entrance to the dungeon and goes in, he must explore the rooms, fight enemies and collect keys until he finds the boss monster he must defeat. He will then be able to pick up a Triforce piece. Once he does so, however, all the monsters in the Overworld come back to life. 
+
+If Link dies on his quest, he can continue it; he will go back to his start position in the Overworld, but with the items he managed to collect so far. When Link finishes his quest, the pl;ayer can choose to play the "2nd quest", which is essentially a harder version of the game. 
+
+The Le</desc>
+		<releasedate>19871127T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Legendary Wings.nes</path>
+		<name>Legendary Wings</name>
+		<thumbnail>./media/covers/Legendary Wings.png</thumbnail>
+		<image>./media/screenshots/Legendary Wings.png</image>
+		<marquee>./media/marquees/Legendary Wings.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>Legendary Wings is an arcade shooter influenced by Greek mythology.  A heroic figure from ancient times thrust into a strange futuristic world, you must fight your way through six levels to defeat "The Devil" and save the day.
+
+The primary gameplay mode is a top-down, vertical-scrolling shooter similar to Xevious and Capcom's own 1943.  Your main weapon is used to attack flying enemies, and your secondary missile weapon is used to attack fixed placement, land-based enemies.  Numerous powerups are available along the way, and these both improve your weapons and your resistance to damage (every "upgrade" is worth a free hit from enemies without dying).
+
+Several secondary gameplay modes (Danger, Lucky, and Palace) are also triggered at key points in the vertical-scrolling mode.  All of the secondary modes are side-scrolling shooters.  The Danger stage requires you to face a gauntlet of enemies, while the Lucky stage is full of powerups, game continues, and other bonuses.  The Palace stage is triggered when you defeat a mini-boss; you must get past the palace defenses before you can face the end-of-stage boss.  And, oh yeah...don't get crushed by those walls!</desc>
+		<releasedate>19880702T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Life Force.nes</path>
+		<name>Life Force : Salamander</name>
+		<thumbnail>./media/covers/Life Force.png</thumbnail>
+		<image>./media/screenshots/Life Force.png</image>
+		<marquee>./media/marquees/Life Force.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>In a distant part of the universe, an alien creature called Zelos was born. As he grew so did his appetite, and soon he began devouring galaxies, planets, and stars by the hundreds. Now your planet has appeared in Zelos' path, and it is up to you and a partner to fly into battle to save your world. Life Force is an action packed shooter based on the arcade game. There are six levels which alternate between side and vertical scrolling, each of them ending with a powerful guardian. Throughout the game, destroying certain enemies will release power ups which can be used to equip your ship with more powerful weapons, extra speed, and shields. Gameplay is for one player or two players simultaneously.
+</desc>
+		<releasedate>19891122T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Little Nemo - The Dream Master.nes</path>
+		<name>Little Nemo : The Dream Master</name>
+		<thumbnail>./media/covers/Little Nemo - The Dream Master.png</thumbnail>
+		<image>./media/screenshots/Little Nemo - The Dream Master.png</image>
+		<marquee>./media/marquees/Little Nemo - The Dream Master.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Based on a comic strip for the 1940's, Nemo is a young boy from London summoned to the kingdom of Slumberland, a fantasy realm filled with strange creatures and dream-like locations.  You soon learn that the King of Slumberland has been kidnapped by the Prince of Nightmares, and you are requested to save him by Princess Camille.  Using your only weapon, a sack of candy, you stun enemies and lull friendly animals into helping you through levels like the Mushroom Forest and Train Land.  This platformer featured licensed characters and artwork from the comic, along with using the animals, such as apes and moles, to traverse through the different terrain.
+</desc>
+		<releasedate>19911212T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Little Samson.nes</path>
+		<name>Little Samson</name>
+		<thumbnail>./media/covers/Little Samson.png</thumbnail>
+		<image>./media/screenshots/Little Samson.png</image>
+		<marquee>./media/marquees/Little Samson.png</marquee>
+		<video />
+		<rating>0.95</rating>
+		<desc>Ta-Keed, the Prince of Darkness, has managed to escape from his supernatural penitentiary where he has had centuries to plot exactly how he will take revenge on those that locked him away. Emperor Hans sends his troops to deal with this threat, but they are no match for the ultimate evil one. As an alternative, the emperor summons the bearers of 4 Magical Bells. These 4 adventurers must make their way to the castle and work as a team if they are to destroy Ta-Keed.
+
+The first part of Little Samson has each of the 4 characters journeying from his or her home land to the emperor's palace. This gives the player an opportunity to explore that character's unique abilities which will be essential throughout the game.
+
+1. Samson is a human who is reasonably fast and also possesses magnificent rock climbing prowess. He is able to scale walls and hang across ceilings, and also grab onto walls and ceilings while jumping. His offensive option is the ability to shoot bells straight ahead.
+
+2. Kikira is the Dragon Lord. Since she has claws, she does not slip on ice. When she jumps, she can also fly for short bursts. She breathes fire in 2 intensities, depending on how long the player holds down the fire button. Her fireballs spread in arc patterns.
+
+3. Gamm is the Rock Lord. Since he is a living rock he is very strong. So strong in fact that spikes do not hurt him, which is very valuable in a number of situations. He is also very slow and has only a short leap. He has a powerful punch.
+
+4. K.O. is the Mouse Lord. He is tiny which allows him to enter areas that other team members can not. He is also extremely fast and the highest jumper of the team. However, he is the weakest member so he can not sustain very much damage. He has the same wall and ceiling traversal abilities as Samson. Offensively, he can drop time-delay bombs.
+
+When all 4 characters reach the emperor's palace, they all jump into Samson's bell. Actually, Gamm and K.O. quietly jump into Samson's bell; Kikira initially refuses. After a brief fight (with the player controlling Samson), Kikira joins the effort. Throughout the rest of the game, the player can switch between any of the 4 characters by entering the sub-screen. Each character has their own power meter. However, all the characters share lives. If the presently selected character loses all of his or her power, then one life is lost. The player must swap between all 4 characters in order to complete the journey.</desc>
+		<releasedate>19930318T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Sur de Wave</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Lode Runner.nes</path>
+		<name>Lode Runner</name>
+		<thumbnail>./media/covers/Lode Runner.png</thumbnail>
+		<image>./media/screenshots/Lode Runner.png</image>
+		<marquee>./media/marquees/Lode Runner.png</marquee>
+		<video />
+		<rating>0.55</rating>
+		<desc>The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes.
+
+The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.
+
+This was one of the earliest games to include a level editor, allowing the creation of new level designs with no programming skill.</desc>
+		<releasedate>19870902T000000</releasedate>
+		<developer>Broderbund Software</developer>
+		<publisher>Broderbund Software</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Maniac Mansion.nes</path>
+		<name>Maniac Mansion</name>
+		<thumbnail>./media/covers/Maniac Mansion.png</thumbnail>
+		<image>./media/screenshots/Maniac Mansion.png</image>
+		<marquee>./media/marquees/Maniac Mansion.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>The Edison mansion has always been a creepy old house on the edge of town. There have been rumors of strange experiments going on and of odd creatures living amongst the Edison family. There is even a story that a meteorite once crashed near the home nearly 20 years ago. More immediately, a girl named Sandy has gone missing from the local highschool and her boyfriend Dave swears that he saw Dr. Fred abducting her. Dave knows that he cannot do it alone and will need help from two other students if he has any hope of infiltrating the mansion and rescuing Sandy.
+
+Players start by choosing 2 students to accompany Dave to the Edison mansion, and can then switch between these three characters at will. Most actions are carried out by selecting verbs on the screen and applying them to an object (such as "OPEN Door"). Each character maintains a separate personality and may have a different way to solve a problem from his classmates. Thus many of the puzzles can be overcome in different ways depending on the character being used. If any one of the kids are captured by the Edisons, they are thrown into the dungeon and must be rescued themselves by any character who still has their freedom.</desc>
+		<releasedate>19921022T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Yoshi.nes</path>
+		<name>Mario &amp; Yoshi</name>
+		<thumbnail>./media/covers/Yoshi.png</thumbnail>
+		<image>./media/screenshots/Yoshi.png</image>
+		<marquee>./media/marquees/Yoshi.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>An airborne puzzle invasion! It's raining Goombas, Bloobers and Boo Buddies! You have to help Mario cope with the airborne invasion! As the critters fall, catch them on trays. Switch and shuffle to save the day! Stack two of a kind and they both disappear. Or, capture the whole bunch in-between egg shells. When the egg shells match, out hatches Yoshi and up goes your score! The action heats up as the characters fall faster and faster. If your piles get too high, the game is over. Choose your difficulty level and play for a high score or challenge a friend in a head-to-head hatch-off! If you like Dr. Mario, but you're ready for a whole new kind of challenge, you'll love this quick-shuffle action puzzle game!</desc>
+		<releasedate>19921220T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mario Bros..nes</path>
+		<name>Mario Bros.</name>
+		<thumbnail>./media/covers/Mario Bros..png</thumbnail>
+		<image>./media/screenshots/Mario Bros..png</image>
+		<marquee>./media/marquees/Mario Bros..png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mega Man.nes</path>
+		<name>Mega Man</name>
+		<thumbnail>./media/covers/Mega Man.png</thumbnail>
+		<image>./media/screenshots/Mega Man.png</image>
+		<marquee>./media/marquees/Mega Man.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>In the future city of Monsteropolis, the use of robot labour has helped civilization grow more than ever before. At the forefront of this technology is Dr. Light and his assistant Dr. Wily, who are commissioned to build six robots to handle a variety of specific tasks. They are named Bombman, Gutsman, Iceman, Cutman, Elecman, and Fireman in reference to their individual prime functions. Dr. Wily, however, has bigger plans and chooses to take control of the robots and let loose destruction in a bid for world control. Dr. Light fights back with the best tool he has, an experimental human-like robot, Rock aka Mega Man, who had been tested to perform cleaning duties. Now properly armed, it's up to Mega Man to take on the maverick robots, fight his way into Dr. Wily's castle, and end this madness.
+
+Mega Man is a side-scrolling platformer. Mega Man has the ability to jump and fire his weapon. He must travel to the levels of the six robot masters and defeat them in combat. By doing so, Mega Man is able to acquire their power for his own. These powers can then be used interchangeably with his main weapon and target the weaknesses of specific enemy bosses. Additionally, some hidden areas of the levels can only be accessed by using certain captured robot weapons. A special  Magnet Beam ability can also be found which can be used to create steps. 
+
+Travelling throughout these levels, Mega Man is confronted by an army of lesser robot creations. Destroying these usually yields energy capsules (for refilling Mega Man's Energy), weapon capsules (for refilling Mega Man's special robot weapons), and extra lives shaped like Mega Man's head.</desc>
+		<releasedate>19891213T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mega Man II.nes</path>
+		<name>Mega Man 2</name>
+		<thumbnail>./media/covers/Mega Man II.png</thumbnail>
+		<image>./media/screenshots/Mega Man II.png</image>
+		<marquee>./media/marquees/Mega Man II.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>After defeating Dr. Light's six robots that were reprogrammed by the villainous Dr. Wily in Mega Man, it seemed like the world was safe.  But it was not to be.  Dr. Wily has escaped from prison and is madder than ever, this time creating eight new Robot Masters of his own to take over the world and crush Mega Man!  Is the world doomed?
+
+Mega Man 2 is the sequel to the NES game Mega Man. In this game, Metal Man, Air Man, Bubble Man, Quick Man, Crash Man, Flash Man, Heat Man and Wood Man are Dr. Wily's eight prize creations that have been sent to take over the world.  As Mega Man defeats these bosses, he can steal their powers and use them for himself.  Each Robot Master is weak against another's weapon, and through experimentation, Mega Man can gain the upper hand by using the weapon they're vulnerable against.
+
+Other additions to the game include the 'E-Tank' - an item that can be used at any time to completely refill Mega Man's energy, and a Password System, which allows players to continue their game by recording which Robot Masters have been defeated and how many E-Tanks they have.  Mega Man 2 also removes the scoring system from the original game.</desc>
+		<releasedate>19901214T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mega Man III.nes</path>
+		<name>Mega Man 3</name>
+		<thumbnail>./media/covers/Mega Man III.png</thumbnail>
+		<image>./media/screenshots/Mega Man III.png</image>
+		<marquee>./media/marquees/Mega Man III.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>"Calling Mega Man! Calling Mega Man! Come in please! ...."
+
+This is a traditional action-platformer: you jump from brick to brick while avoiding pits and shooting robots. It's quite similar, in all respects, to other Mega Man games; however, this is the first time that you get a sidekick. It's also the first time you're allowed to slide instead of merely walking. Also, there is a mysterious character called Protoman who may or may not be your friend.
+
+Rush is your dog who helps out by offering other modes of transportation when you need it. He starts out with the 'Rush Coil' ability to launch you to the top of the screen like a springboard; later he acquires the 'Rush Jet' ability to turn into a guided, floating platform to carry you wherever you need to go; and he also gets the 'Rush Marine' ability which is a submarine that works just like the jet except underwater and with the added ability to hop around out of the water(you can actually jump while on the jet but the jet continues to hover beneath you whereas you stay inside the submarine). All of these abilities function just like boss weapons.
+
+How do those work, you ask? When you defeat the boss at the end of a level you gain his power - or at least a similar power. You may pause the game at any time and switch to any single power you have. It supplants your regular Arm Cannon with a limited - but superior - ability. The weapon ammo is displayed next to your energy meter. There are 8 of these, corresponding to the 8 main levels, even though there are 21 levels in the entire game. The bosses are as follows: Snake Man, Gemini Man, Needle Man, Shadow Man, Spark Man, Top Man, Magnet Man, &amp; Hard Man.
+
+Enemies will often supply you with both energy and ammo refills. You can also collect Energy Tanks which can only be used once but will entirely restore your health. You'll definitely want some of these for Dr. Wily's fortress, if not for the levels before it, since you start the game with only 3 lives. There are even Surprise Boxes lying around for you to find. And, of course, you do get infinite continues and a password feature to resume play at the beginning of any level.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mega Man IV.nes</path>
+		<name>Mega Man 4</name>
+		<thumbnail>./media/covers/Mega Man IV.png</thumbnail>
+		<image>./media/screenshots/Mega Man IV.png</image>
+		<marquee>./media/marquees/Mega Man IV.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>In Mega Man 4, Dr. Wily is declared as having been killed by the explosion of Gamma. A year passes and Rock, Roll, and Dr. Light are living in peace. But soon, the peace is broken by a new threat.
+
+A supposed colleague of Dr. Light's, the mysterious Dr. Cossack, has sent out eight of his own Robot Masters to find Mega Man, whom Cossack blames for the kidnapping of his daughter. Mega Man, hoping to clear his name, sets out to find Dr. Cossack, this time armed with a powerful new weapon: the Rock Buster!!
+
+Rockman must now battle with Cossack's fiendish Robot Masters and find Cossack's daughter before it's too late!
+
+Originally for the NES, Mega Man 4 was also released for the PSX in Japan as the fourth installment in the Rockman Complete Works series.</desc>
+		<releasedate>19930121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mega Man V.nes</path>
+		<name>Mega Man 5</name>
+		<thumbnail>./media/covers/Mega Man V.png</thumbnail>
+		<image>./media/screenshots/Mega Man V.png</image>
+		<marquee>./media/marquees/Mega Man V.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Dr. Cossack, humbled by his defeat and his allowing of Dr. Wily to influence his ways, decides to help Dr. Light by providing him and Rockman with tools and weapons to help foil Dr. Wily for good. All seems calm and peaceful, until...
+
+A sudden rampage breaks out, and the cause is found to be a group of robots, led by a mysterious figure. As Dr. Light begins to investigate this rampage and attempts to find a way to stop it, he is kidnapped by the leader of the robots. Rockman hurries to save Dr. Light, but is too late...the only thing he can find at the scene is a yellow scarf...one that almost seems to belong to...Blues!?
+
+Could Rockman's supposed brother, the strange but good-hearted Blues, be the one who kidnapped Dr. Light? Is Blues the one responsible for the rampages? With these questions racing through his mind, Rockman sets off to find Blues and get the answers he wants.
+
+Like the other early Rockman / Mega Man games, the Playstation version was only released in Japan, as part of the Complete Works series.</desc>
+		<releasedate>19930121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mega Man VI.nes</path>
+		<name>Mega Man 6</name>
+		<thumbnail>./media/covers/Mega Man VI.png</thumbnail>
+		<image>./media/screenshots/Mega Man VI.png</image>
+		<marquee>./media/marquees/Mega Man VI.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>The sixth (and supposedly final) volume in the Rockman Complete Works series contains the final NES/Famicom Rockman title: Rockman 6: The Biggest Battle in History!!
+
+In Rockman 6, the whole world is alive and buzzing with word of the 1st Annual Robot Design Contest. Hundreds of robot designers from all corners of the globe enter their most powerful robots into the contest in hopes of taking home the ultimate prize. The sponsor of the contest, the mysterious Mr. X, suddenly declares that he has decided on winners...and takes 8 of the Robot Masters for his own purpose...taking over the world!! Rockman confronts him and demands an explanation, and what Mr. X replies with shocks him.
+
+Mr. X declares to Rockman that he had been using Dr. Wily as a puppet the entire time, and now HE would take over the world, and nothing could stand in his way! Rockman finally decides to stop Mr. X once and for all, and sets off to defeat his 8 new Robot Masters and then the madman himself!
+
+The Rockman Complete Works series was only released in Japan.</desc>
+		<releasedate>19940302T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Metal Gear.nes</path>
+		<name>Metal Gear</name>
+		<thumbnail>./media/covers/Metal Gear.png</thumbnail>
+		<image>./media/screenshots/Metal Gear.png</image>
+		<marquee>./media/marquees/Metal Gear.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Near the end of the 20th century, a small fortified nation named Outer Heaven (founded by a mysterious war hero whose name and identity are shrouded in secrecy) is threatening the nations of the "West" with the development of a new prototype weapon named Metal Gear, a walking tank which is capable of launching nuclear warheads from anywhere on the globe. As FOX-HOUND's (an elite black ops unit) newest recruit, going by the codename of Solid Snake, your mission is to infiltrate Outer Heaven and rescue your missing comrade, Grey Fox (who was captured after a failed infiltration), while gathering intelligence on Metal Gear. In order to fulfill your objective, you must collect various weapons and equipments (including keycards for further access into the fortress), while avoiding visual contact with the enemy. The player must also confront against bosses in the form of Outer Heaven's elite mercenary force and rescue hostages hidden within the fortress in order to increase their rank, which gives the player an extended life bar and increased storage capacity for replenishable items and ammo. The player can use a wireless transceiver to come in touch with their commanding officer, Big Boss, to learn more about their current mission objectives or contact one of the local resistance members operating covertly within the fortress to gain useful tips and insights.</desc>
+		<releasedate>19891213T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Metal Storm.nes</path>
+		<name>Metal Storm</name>
+		<thumbnail>./media/covers/Metal Storm.png</thumbnail>
+		<image>./media/screenshots/Metal Storm.png</image>
+		<marquee>./media/marquees/Metal Storm.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>Metal Storm is an action game in which the player takes control of the giant mecha M-308 Gunner in order to put a stop to a malfunctioning computer menace. 
+
+To save it from becoming another generic action game, innovation is shown through fast paced gameplay and the "gravity flip" ability, which enables the character to freely switch between moving along the floor or ceiling. While the game is only seven levels long, the difficulty ramps up quickly, so mastery of the gravity technique and memorization of the levels become absolute necessities for survival.</desc>
+		<releasedate>19910202T000000</releasedate>
+		<developer>Tamtex</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Metroid.nes</path>
+		<name>Metroid</name>
+		<thumbnail>./media/covers/Metroid.png</thumbnail>
+		<image>./media/screenshots/Metroid.png</image>
+		<marquee>./media/marquees/Metroid.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>In the future, the Galactic Federation and the pirates of planet Zebes are at war. Pirates have stolen an unknown life-form, recently discovered on the planet SR388. The life-form, designated "Metroid", is in a state of suspended animation and, according to analysis, was the cause of the complete destruction of SR388. If the Metroid ever got loose, the alien could destroy countless other systems. It is up to the space bounty hunter Samus Aran to land on Zebes and find her way through the perilous terrains of Brinstar and Norfair, destroy the Pirates, as well as their alien enforcers, Ridley and Kraid, and rid the planet of the alien life form before the pirates complete their plans of world destruction.
+
+Using the cybernetic enhancements of her Power Suit, Samus can use a range of weapons and defenses to destroy the enemy. She can also absorb enemies powers into her Power Suit to increase her defense and chance of survival. Using her weapons and special abilities, she must find her way to the central chamber of Tourian and destroy the Mother Brain, the mysterious leader behind the Space Pirates.</desc>
+		<releasedate>19880115T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Mickey Mousecapades.nes</path>
+		<name>Mickey Mousecapade</name>
+		<thumbnail>./media/covers/Mickey Mousecapades.png</thumbnail>
+		<image>./media/screenshots/Mickey Mousecapades.png</image>
+		<marquee>./media/marquees/Mickey Mousecapades.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>One of Mickey's friends is in trouble, and Mickey and Minnie Mouse are on a rescue mission! Mickey Mousecapade is an action platform game. In order to reach your goal (and find out which of Mickey's friends is in trouble), you'll need to jump and climb your way through various levels which take place in different locations (including a fun house, a treacherous sea side, a pirate ship, and a castle). Each screen has numerous obstacles and enemies which will drain your energy if you come in contact; lose all of your energy, and a life is lost and the game ends when you have no lives left. You control Mickey Mouse and Minnie follows along. You'll need to make sure Minnie stays safe as you make your way through the levels (for example, if you mistime a jump and Mickey lands safely but Minnie doesn't a life will be lost). In addition to avoiding obstacles, there is also some occasional puzzle solving (such as locating a key to open locked doors, or finding your way out of the woods).</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Capcom</publisher>
+		<genre>Various, Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Micro Machines.nes</path>
+		<name>Micro Machines</name>
+		<thumbnail>./media/covers/Micro Machines.png</thumbnail>
+		<image>./media/screenshots/Micro Machines.png</image>
+		<marquee>./media/marquees/Micro Machines.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Choose your vehicle and go! Feel the power, feel the traction - excellent! Performance sports cars, Formula One racing cars, Power boats, Combat Monster trucks &amp; Turbo Wheels. Absolutely Brilliant!!</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Camerica</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mike Tyson's Punch-Out!!.nes</path>
+		<name>Mike Tyson's Punch-Out!!</name>
+		<thumbnail>./media/covers/Mike Tyson's Punch-Out!!.png</thumbnail>
+		<image>./media/screenshots/Mike Tyson's Punch-Out!!.png</image>
+		<marquee>./media/marquees/Mike Tyson's Punch-Out!!.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>Mike Tyson's Punch-Out is one of the most popular and biggest selling video games of all time. Step into the ring as Little Mac, a 17-year-old fighter from the Bronx, ranked number three in the minor circuit. Your goal is to work your way up through the rankings so that you can challenge Mike Tyson, Kid Dynamite, in a dream fight. 
+
+But the road to the championship is long and hard. You'll have to work your way up through the minor, major, and world circuits by winning against tough contestants like Piston Honda, Glass Joe, Super Macho Man and many, many more! Defeat all your opponents and meet the ultimate challenge against the World Heavyweight Champion Mike Tyson in the greatest fight of all - The Dream Bout! Knockout Tyson and you can become WVBA (World Video Boxing Association) Champ!
+
+The rules of the World Video Boxing Association govern your bouts. Each match is three three-minute rounds long. Any boxer knocked down for a 10 count is Knocked Out (KO). If a boxer goes down three times, he'll find himself a Technical Knock Out (TKO). If both boxers make it to the end of the third round, the ref determines the winner. 
+
+Once you're in the ring you'll have to beat your opponent with smart fighting. Use left and right punches, as well as uppercuts to knock your opponent to the mat. Dodge your opponent's blows with some fancy footwork. Dazzle them with your brilliance and you'll be the World Video Boxing Association Champion. On the other hand, you might find yourself down for the count.
+</desc>
+		<releasedate>19871001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports, Sports / Boxing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ninja Gaiden III - The Ancient Ship of Doom.nes</path>
+		<name>Ninja Gaiden III : The Ancient Ship of Doom</name>
+		<thumbnail>./media/covers/Ninja Gaiden III - The Ancient Ship of Doom.png</thumbnail>
+		<image>./media/screenshots/Ninja Gaiden III - The Ancient Ship of Doom.png</image>
+		<marquee>./media/marquees/Ninja Gaiden III - The Ancient Ship of Doom.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>This is the third entry in the series of fast-paced ninja action games, and is the last game in the series to be released on the Nintendo Entertainment System.
+
+Some time has passed since the defeat of Ashtar and the resurrected Jaquio, and Irene Lew has received a new mission to complete. She is to observe a strange factory that has been constructed recently for an unknown purpose, and investigate it. She proceeds to reconnoiter it, but is intercepted and apparently assassinated by her friend Ryu Hayabusa...except it isn't Ryu. It is an imposter. The real Ryu, angered over her death, and the subsequent false accusation that he murdered her, continues her mission and proceeds to investigate the factory.
+
+As stated, this was the last game in the regular series produced for the NES. It had many features the previous games in the series did not, such as a power up to extend the length of your sword, a new vertical "wave" attack and vertically-scrolling levels. The US version of the game is reputed to be the hardest in the series, due to the extra damage incurred when hit, slightly shorter regular sword length, limited continues and more enemies.
+
+The Lynx port is the second Ninja Gaiden game on the platform, the first being a port from the Arcade Version. This port is identical to the NES game, but the in-game picture is compressed for the smaller screen of the Lynx.
+</desc>
+		<releasedate>19910801T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Paperboy.nes</path>
+		<name>Paperboy</name>
+		<thumbnail>./media/covers/Paperboy.png</thumbnail>
+		<image>./media/screenshots/Paperboy.png</image>
+		<marquee>./media/marquees/Paperboy.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>Based on the arcade game, the object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.</desc>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Action, Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Paperboy 2.nes</path>
+		<name>Paperboy 2</name>
+		<thumbnail>./media/covers/Paperboy 2.png</thumbnail>
+		<image>./media/screenshots/Paperboy 2.png</image>
+		<marquee>./media/marquees/Paperboy 2.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>You're a paper boy. Get on your bicycle. Avoid obstacles on the road, such as dogs, cars, and basically everything you can imagine. Hell, some people shoot cannon balls at you! And you'd better be very sure to only throw papers at the right houses! (and at people, that's fun :)</desc>
+		<releasedate>19920401T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Power Blade.nes</path>
+		<name>Power Blade</name>
+		<thumbnail>./media/covers/Power Blade.png</thumbnail>
+		<image>./media/screenshots/Power Blade.png</image>
+		<marquee>./media/marquees/Power Blade.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>It is the year 2191, and Earth's blissful existence was governed by a master computer. Then suddenly, its master control program malfunctioned, and people panicked ensuring total chaos. Secret Agent Nova is called in to locate agents located in six sectors. These agents hold an ID card which Nova must acquire to gain access to the security room within each sector. There, he must defeat the guards and obtain secret tape units, and if Nova obtains six of these, he will be able to gain entry to the control center and defeat the guard to destroy the computer and restore order to society.
+
+Power Blade is a platform game, in which you must run through the level, destroying various enemies, and exit through the door. However, you can't leave each sector without locating agents.  By destroy enemies, you can get power-ups which restore your energy or upgrade your weapon. Occasionally, you can get a special power-up which transforms you into a Mech, which has a special attack mode and an three units of energy.
+
+You must get through each sector before time runs out. You can leave a sector without getting the ID card and go to another sector, and come back when you're ready.
+
+Power Blade is the significantly altered US Version of Power Blazer</desc>
+		<releasedate>19910302T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Power Blade 2.NES</path>
+		<name>Power Blade 2</name>
+		<thumbnail>./media/covers/Power Blade 2.png</thumbnail>
+		<image>./media/screenshots/Power Blade 2.png</image>
+		<marquee>./media/marquees/Power Blade 2.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>Christmas Eve, 2200.
+
+The Delta Foundation has just finished the development of a cyborg unit which represents a new generation of fighting robots. They want to sell it to the government's department of defense as it would pose a threat to the security of the nation if it is sold to a foreign country. They have asked the president, who is actually an alien from outer space, to consider their offer and respond in one week. The government takes this matter very seriously, and assigns Nova to destroy the Delta Foundation. Unfortunately, the government cannot be involved in the event that something might happen to him.
+
+Power Blade 2 has six stages which involves you running through the level, while killing off enemies and avoiding hazards. At the start, you can choose which stage to start at, but unlike Power Blade, once you have chosen a stage, you can't exit and choose another one until you have completed the current one first. Nearly each stage involves you using your wits, as you dodge spikes, jumping towards the top of the screen to avoid fire, and getting fans to lift you onto platforms. You can also slide your way through tight spots, as long as you slide in the right place.
+
+At the end of each stage, you fight a different boss. However, in the end, you must fight all the bosses you fought before before you get to fight the alien leader.
+</desc>
+		<releasedate>19921002T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Qix.nes</path>
+		<name>QIX</name>
+		<thumbnail>./media/covers/Qix.png</thumbnail>
+		<image>./media/screenshots/Qix.png</image>
+		<marquee>./media/marquees/Qix.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>In this game, you guide a marker which must draw rectangles and other weird objects in order to claim your territory, and you can either draw these rectangles fast or slow. Drawing the rectangles using the "slow" method awards you the most points. Once a rectangle has been made, it will be colored in to show that you have claimed your territory. While drawing the rectangles, you need to watch out for Qix (pronounced "kicks"), a series of colored lines that crawl the screen. In addition to Qix, you also need to avoid the Sparks who travel around the border, as well as any lines that you have made, as well as The Fuse, who travels along the line that you are drawing. Once you have claimed enough territory, you proceed to the next level.</desc>
+		<releasedate>19910102T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./R.C. Pro-Am.nes</path>
+		<name>R.C. Pro-Am</name>
+		<thumbnail>./media/covers/R.C. Pro-Am.png</thumbnail>
+		<image>./media/screenshots/R.C. Pro-Am.png</image>
+		<marquee>./media/marquees/R.C. Pro-Am.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Guide your radio controlled car to victory in this racing game. You have to beat your 3 opponents on 32 tracks while avoiding obstacles like water and oil puddles and collecting bonus items like better engines and tires.
+You can also collect a variety of weapons to blast your opponents out of the way.
+
+</desc>
+		<releasedate>19930923T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rad Racer.nes</path>
+		<name>Rad Racer</name>
+		<thumbnail>./media/covers/Rad Racer.png</thumbnail>
+		<image>./media/screenshots/Rad Racer.png</image>
+		<marquee>./media/marquees/Rad Racer.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Rad Racer is an arcade style 3-D racing game. The object of the game is to race to the goal within the given time limit. Along each course are several checkpoints which will increase the amount of time you have to reach the final destination. There are eight different stages with increasingly difficult roads, changing weather conditions, and a variety of opponents who tend to get in the way. Included with the game is an optional pair of red-blue 3-D glasses which can be used to give the game an even more 3-D appearance.</desc>
+		<releasedate>19880115T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Rampage.nes</path>
+		<name>Rampage</name>
+		<thumbnail>./media/covers/Rampage.png</thumbnail>
+		<image>./media/screenshots/Rampage.png</image>
+		<marquee>./media/marquees/Rampage.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
+
+Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human.</desc>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ring King.nes</path>
+		<name>Ring King</name>
+		<thumbnail>./media/covers/Ring King.png</thumbnail>
+		<image>./media/screenshots/Ring King.png</image>
+		<marquee>./media/marquees/Ring King.png</marquee>
+		<video />
+		<rating>0.5</rating>
+		<desc>Ring King is a port of an arcade game by the same name. Box your way from the lowest ranks up through the circuits, on your way to become world champion. Build your fighter up in training mode, or take on another player's boxer in a 2-player battle.</desc>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Data East</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rush 'n Attack.nes</path>
+		<name>Rush'n Attack</name>
+		<thumbnail>./media/covers/Rush 'n Attack.png</thumbnail>
+		<image>./media/screenshots/Rush 'n Attack.png</image>
+		<marquee>./media/marquees/Rush 'n Attack.png</marquee>
+		<video />
+		<rating>0.6</rating>
+		<desc>Depending on which title you use, and how you interpret it, this game is about a guy who a)rushes in before attacking b)attacks Russians (this was the mid-80s, when the US helped bin Laden do the same), or c)wears a rather goofy hat. One way or another, this arcade conversion arms you with a knife and sends you on a kamikaze mission against hordes of enemy fighters.
+
+There are four distinct sections of gameplay, taking in a Missile Base, a Harbour, a Bridge, and an enemy Prison Camp. Extra weapons with limited ammunition can be collected along the way, which will make the task a lot easier. The level is divided into 3 horizontal levels, which can be moved between either by jumping or using ladders, and this gives a chance to avoid the more threatening mobs of enemy fighters</desc>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rygar.nes</path>
+		<name>Rygar</name>
+		<thumbnail>./media/covers/Rygar.png</thumbnail>
+		<image>./media/screenshots/Rygar.png</image>
+		<marquee>./media/marquees/Rygar.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.</desc>
+		<releasedate>19900330T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Section-Z.nes</path>
+		<name>Section-Z</name>
+		<thumbnail>./media/covers/Section-Z.png</thumbnail>
+		<image>./media/screenshots/Section-Z.png</image>
+		<marquee>./media/marquees/Section-Z.png</marquee>
+		<video />
+		<rating>0.5</rating>
+		<desc>Alien Invaders approach the solar system from their interstellar battle platform, named Fortress Balangool. Under the command of the Master Control, named L-Brain, the Invaders defeat Earth's space forces. Only one hero, Captain Commando remains to defeat the alien armada by entering Balangool and fighting through the various sections until reaching Section-Z.
+
+Section-Z is a side-scrolling shooter where the player must travel through the maze that is Balangool. Typically this consists of traveling through a scrolling corridor and reaching the end where a new direction must be chosen. Captain Commando's abilities are shooting directly left or directly right while moving around the screen. Power-ups can be collected by defeated enemies and include; improved lasers, a 3-way cannon and shield, these can be stored until needed. There are also SMS (Special Transmission Shell) power-ups, which require energy to use Energy units,are used to absorb enemy fire. Loss of all energy or running into an enemy or a wall causes death.
+
+Certain sections of Balangool are blocked until a generator can be found and destroyed. There are four different boss creatures that must be defeated when encountered.</desc>
+		<releasedate>19890927T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ninja Gaiden.nes</path>
+		<name>Shadow Warriors</name>
+		<thumbnail>./media/covers/Ninja Gaiden.png</thumbnail>
+		<image>./media/screenshots/Ninja Gaiden.png</image>
+		<marquee>./media/marquees/Ninja Gaiden.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Ninja Gaiden begins with a cinematic animation in which 2 ninjas duel to the death; one goes down. It is revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom Ryu's father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.
+
+Ninja Gaiden is a side scrolling game where Ryu the ninja can run, jump, and slash with his ninja sword. He can also attach to any vertical surface. Powerups are littered throughout the landscape that allow Ryu to toss fireballs and ninja stars, and perform other feats.
+
+Ryu will battle through urban city settings, forests, jungles, snow covered castles, underground railroads, and ancient castles. A major feature in Ninja Gaiden are the cinematic scenes -- sometimes fullscreen -- through which the storyline unfolds.</desc>
+		<releasedate>19910815T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ninja Gaiden II - The Dark Sword of Chaos.nes</path>
+		<name>Shadow Warriors II : Ninja Gaiden II</name>
+		<thumbnail>./media/covers/Ninja Gaiden II - The Dark Sword of Chaos.png</thumbnail>
+		<image>./media/screenshots/Ninja Gaiden II - The Dark Sword of Chaos.png</image>
+		<marquee>./media/marquees/Ninja Gaiden II - The Dark Sword of Chaos.png</marquee>
+		<video />
+		<rating>0.95</rating>
+		<desc>A year after the events of the original Ninja Gaiden, a new villain named Ashtar receives word of Jaquio's defeat. Ashtar uses this opportunity to hatch a new plan to plunge the world into darkness. The ninja, Ryu Hayabusa, hits the trail to destroy all.</desc>
+		<releasedate>19941027T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action, Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadowgate.nes</path>
+		<name>Shadowgate</name>
+		<thumbnail>./media/covers/Shadowgate.png</thumbnail>
+		<image>./media/screenshots/Shadowgate.png</image>
+		<marquee>./media/marquees/Shadowgate.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Using the same graphical interface as Deja Vu, Shadowgate is an adventure game set in a fantasy world. Players take the part of an adventurer sent to the ancient keep of Shadowgate on a quest to find a mystic artifact known as the Staff of Ages and stop the evil Warlock Lord from summoning a horrific demon known as the Behemoth. However Shadowgate has become infested with the Warlock Lord's demonic minions, not to mention the castle's still functional booby-traps.
+
+Unlike Deja Vu, death comes at you suddenly, unexpectedly, and most of all OFTEN. Such simple acts as pulling the wrong switch or opening the wrong door can cause you to be skewered by a booby-trap or disemboweled by a monster. It's allso worth mentioning the fact that if your torch burns out (this happens quite regularly) and you forget to light a new one, you'll trip in the dark and break your neck.
+
+A Windows 3.x update to this game was created in 1991.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Icom</developer>
+		<publisher>Kemco</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Skate or Die.nes</path>
+		<name>Skate or Die</name>
+		<thumbnail>./media/covers/Skate or Die.png</thumbnail>
+		<image>./media/screenshots/Skate or Die.png</image>
+		<marquee>./media/marquees/Skate or Die.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Skate or Die incorporates five distinct styles of skating, which can be attempted individually or in turn. You skate around a menu room to choose which one to attempt. Before taking off you can visit Rodney's skate shop to buy equipment.
+
+The first event is freestyle, in which your aim is to score as many points as possible in 10 attempts. Judges determine how much style and skill you have shown. The High Jump uses the same equipment, only this time your task is to jump as high as possible at the end of the ramp.
+
+The downhill events are overhead-view races. In the Downhill Race you simply try to complete the course within 90 seconds. In the Downhill Jam you try to outperform a human or computer opponent whilst dodging or jumping hazards. You can use attacking moves to either remove hazards or knock your opponent over. 
+
+The pool joust is more of a one-on-one beat em up using a stick, set within a pit to skate around.</desc>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>UltraGames</publisher>
+		<genre>Sports</genre>
+		<players>8</players>
+	</game>
+	<game>
+		<path>./Skate or Die 2.nes</path>
+		<name>Skate or Die 2 : The Search for Double Trouble</name>
+		<thumbnail>./media/covers/Skate or Die 2.png</thumbnail>
+		<image>./media/screenshots/Skate or Die 2.png</image>
+		<marquee>./media/marquees/Skate or Die 2.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>In this sequel to Skate or Die, you have the option of just skateboarding on a ramp, or to go through an adventure. In the adventure, you are in a small community called Elmood. You play as the hero in this game. Basically you are trying to keep skateboarding and your life as it was after the Mayor of the town bans skateboards. After dealing with this, you set out to build your own halfpipe, and you deal with whatever comes your way. In this game, you go through many obstacles, and other skateboarders shooting paint and throwing eggs at you, you also can shoot at them, and of course upgrade your board from Lester when you run into him on his skateboard, as well as Lester who will give you tricks (giving them whatever they want, whether that's fries, drinks, CD's, etc;).
+</desc>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Snake Rattle 'n Roll.nes</path>
+		<name>Snake Rattle N Roll</name>
+		<thumbnail>./media/covers/Snake Rattle 'n Roll.png</thumbnail>
+		<image>./media/screenshots/Snake Rattle 'n Roll.png</image>
+		<marquee>./media/marquees/Snake Rattle 'n Roll.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Play alone or simultaneously with a friend as you out-score and out-eat your opponent - then weigh yourself on the scales and make for the exit!Snake, Rattle 'n Roll is an isometric 3D platform</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform, Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Spy Hunter.nes</path>
+		<name>Spy Hunter</name>
+		<thumbnail>./media/covers/Spy Hunter.png</thumbnail>
+		<image>./media/screenshots/Spy Hunter.png</image>
+		<marquee>./media/marquees/Spy Hunter.png</marquee>
+		<video />
+		<rating>0.6</rating>
+		<desc>A conversion of the arcade game, Spy Hunter is a driving action game played from an overhead point of view. Your car is equipped with machine guns to help you get past the numerous enemies out on the road (be careful not to shoot any civilians, though!) Occasionally you will come across a weapons van, and if you drive into the back of the van your car becomes equipped with a second weapon (such as smoke screen, oil slick, or missiles.) At several points the road splits and you can enter a boathouse which transforms your car into a boat temporarily. If you drive far enough the seasons change as well (watch out for icy conditions during winter!) The enemy cars will do anything to stop you, including running you off the road, firing guns from the back of a limmo, or dropping bombs from a helicopter.</desc>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./StarTropics.nes</path>
+		<name>StarTropics</name>
+		<thumbnail>./media/covers/StarTropics.png</thumbnail>
+		<image>./media/screenshots/StarTropics.png</image>
+		<marquee>./media/marquees/StarTropics.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>In StarTropics, you play the part of Michael Jones. Mike's uncle (Dr. Jones, a famous archaeologist) is on C-Island looking for some lost ruins and has invited Mike to come visit him. However, shortly after arriving on the island Mike learns from Chief Coralcola that Dr. Jones has recently been abducted! Now it is up to Mike to locate Dr. Jones and find out why he was abducted. StarTropics is a combination of an adventure and action game played from an overhead point of view. Starting out with just an island yo-yo, Mike will need to search the island for Dr. Jones. The villagers may be able to offer some clues, there are many dangerous enemies to defeat, and along the way there are a variety of new weapons and other items to be found which will help Mike on his quest. The cartridge uses a battery backup to allow games to be saved.</desc>
+		<releasedate>19920820T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Stinger.nes</path>
+		<name>Stinger</name>
+		<thumbnail>./media/covers/Stinger.png</thumbnail>
+		<image>./media/screenshots/Stinger.png</image>
+		<marquee>./media/marquees/Stinger.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Save Professor Cinnamon!  When aliens from the planet Attackon kidnap the inventor during their invasion of Earth, two TwinBee Stinger jets (armed with boxing gloves) are unleashed to rescue Cinnamon before the aliens turn the Earth into a giant ball of cotton candy!  
+
+In this vertical and horizontal scrolling shooter, blast away unusual creatures and even more bizarre bosses, while collecting power-ups and super weapons. By repeatedly shooting bells that come out of the clouds, these bells will change colors, each color giving a different ability. Getting shot down releases a ghost of Stinger, which can be recollected to gain the jet's powers back.
+
+In the two-player mode, if TwinBee (cyan craft) and GwinBee (green craft) align their flights (one behind the other) they can turn their guns into a ripple laser. The Japanese version features a three players mode, with the addition of WinBee (the magenta craft, which was removed from the US version).</desc>
+		<releasedate>19870902T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./Street Fighter 2010 - The Final Fight.NES</path>
+		<name>Street Fighter 2010 - The Final Fight</name>
+		<thumbnail>./media/covers/Street Fighter 2010 - The Final Fight.png</thumbnail>
+		<image>./media/screenshots/Street Fighter 2010 - The Final Fight.png</image>
+		<marquee>./media/marquees/Street Fighter 2010 - The Final Fight.png</marquee>
+		<video />
+		<rating>0.4</rating>
+		<desc>The player is Ken, the hero of the Street Fighter series. It's been 25 years since he last participated in a fighting tournament. He has become a scientist and has developed a powerful medicine together with his friend Troy. But an unknown fiend breaks into his laboratory, kills Troy, and steals the invention. It's time to recall the good old days and to embark on a quest for revenge!
+
+Despite the US title, the game has little to do with the Street Fighter or the Final Fight games. This is an action platformer in which the player navigates Ken around, trying to avoid or kill the enemies by shooting at them with ranged weapons, adjusting the direction of the shot, or kicking and punching them. Ken is very agile and can jump high and climb walls.
+</desc>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./River City Ransom.nes</path>
+		<name>Street Gangs</name>
+		<thumbnail>./media/covers/River City Ransom.png</thumbnail>
+		<image>./media/screenshots/River City Ransom.png</image>
+		<marquee>./media/marquees/River City Ransom.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The evil Slick has kidnapped Ryan's girlfriend and taken over the high school. The player is cast as either Ryan or Alex (second player) and has to fight his way through River City's merciless gangs before confronting Slick and freeing his girl. 
+
+River City Ransom is a side-scrolling beat-em-up similar to Double Dragon. The player, or players, travel through the locations of River City, encountering various gangs along the way. Gang members can be defeated with punches and kicks, or beaten up with objects scattered around. Upon their defeat, gang members drop money which Alex and Ryan can spend in malls to buy items that restore health and improve their combat abilities. The main characters have RPG-like numerical stats that can be improved this way, and can also buy books to learn combat manoeuvres. To finish the game, the player(s) have to find and defeat all the bosses.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Beat'em Up, Action</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Super C.nes</path>
+		<name>Super C</name>
+		<thumbnail>./media/covers/Super C.png</thumbnail>
+		<image>./media/screenshots/Super C.png</image>
+		<marquee>./media/marquees/Super C.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The alien Red Falcon is back, and planning on taking over the planet Earth. Now it's up to Scorpion and Mad Dog to battle through five levels and save the planet. Based on the arcade game, Super C is the sequel to Contra. Gameplay is a combination of side scrolling/platform and top down view. There is a wide variety of enemies to defeat, starting with earthly locations, and progressing to more alien. To help out, weapon upgrades can be found as the game progresses. Two players can play simultaneously, or one player can attempt to take on Red Falcon himself.</desc>
+		<releasedate>19900401T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter, Shooter / Run and Gun, Action, Beat'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Bros..nes</path>
+		<name>Super Mario Bros.</name>
+		<thumbnail>./media/covers/Super Mario Bros..png</thumbnail>
+		<image>./media/screenshots/Super Mario Bros..png</image>
+		<marquee>./media/marquees/Super Mario Bros..png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 2.nes</path>
+		<name>Super Mario Bros. 2</name>
+		<thumbnail>./media/covers/Super Mario Bros. 2.png</thumbnail>
+		<image>./media/screenshots/Super Mario Bros. 2.png</image>
+		<marquee>./media/marquees/Super Mario Bros. 2.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>One night Mario has a strange dream, where he opens a door to another world filled with even stranger creatures and lands then those in his last adventure against Bowser. Amazingly, the next day, Mario, Luigi, Toad, and the Princess stumble upon a cave, which leads to the world that was in Mario's dream.
+
+Subcon, the land of dreams, is under an evil spell thanks to Wart, so Mario and the gang must save the day. New creatures to defeat and plenty of nasty surprises await.
+
+Choose from the four characters, each differing in speed and jumping ability, and head on through 7 levels each filled with puzzles, bosses, bonus money, the always helpful mushroom, and invincible star, plus bombs and magic potions. 
+After each level, depending on the coins you collect, you can use them in the bonus game to collect extra lives.</desc>
+		<releasedate>19890428T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 3.nes</path>
+		<name>Super Mario Bros. 3</name>
+		<thumbnail>./media/covers/Super Mario Bros. 3.png</thumbnail>
+		<image>./media/screenshots/Super Mario Bros. 3.png</image>
+		<marquee>./media/marquees/Super Mario Bros. 3.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
+
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
+		<releasedate>19910829T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Tecmo Super Bowl.nes</path>
+		<name>Tecmo Super Bowl</name>
+		<thumbnail>./media/covers/Tecmo Super Bowl.png</thumbnail>
+		<image>./media/screenshots/Tecmo Super Bowl.png</image>
+		<marquee>./media/marquees/Tecmo Super Bowl.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Tecmo Super Bowl is the follow-up to the NES football arcade/simulation Tecmo Bowl.  While the basic gameplay of the original is intact, a host of new features and improvements have been added.  
+
+Features include: 28 real NFL teams/mascots with real NFL players (circa 1991), 11 players on the field per team, player substitutions, fumbles, improved control over kicks and punts, eight plays to choose from during games, customizable playbooks, arcade/coach/computer simulation options for one or two players, pre-season/regular season/Pro-Bowl games, regular season team standings and rankings, regular season player statistics and rankings, end-of-game boxscores, and a 12-team playoff following the NFL format.</desc>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tecmo World Wrestling.nes</path>
+		<name>Tecmo World Wrestling</name>
+		<thumbnail>./media/covers/Tecmo World Wrestling.png</thumbnail>
+		<image>./media/screenshots/Tecmo World Wrestling.png</image>
+		<marquee>./media/marquees/Tecmo World Wrestling.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>In Tecmo World Wrestling, you select from 10 fictional wrestlers and compete against the others for the coveted Tecmo World Wrestling Title. When your match begins you'll find you've got all the moves of the pros. You can run, climb to the top ropes, climb outside the ring, pick up your opponent, throw them over the ropes, pin them, and escape from a pin yourself. The wrestlers, such as "The British Star" Rex Beat and "The Technician" Dr. Guildo have a full assortment of professional wrestling moves and holds such as the Pile Driver, Shoulder Throw, Cobra Twist, as well as the ever-popular Slam the Guys Face Into the Metal Post maneuver. 
+
+Before selected matches you'll be able to beef up you're wrestler's strength with three different exercises. The bottom portion of the screen is where the energetic announcer describes what is going on in the ring, move by move.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Tournament Fighters.nes</path>
+		<name>Teenage Mutant Hero Turtles : Tournament Fighters</name>
+		<thumbnail>./media/covers/Teenage Mutant Ninja Turtles - Tournament Fighters.png</thumbnail>
+		<image>./media/screenshots/Teenage Mutant Ninja Turtles - Tournament Fighters.png</image>
+		<marquee>./media/marquees/Teenage Mutant Ninja Turtles - Tournament Fighters.png</marquee>
+		<video />
+		<rating>0.4</rating>
+		<desc>[This item has been split and information may not be complete accurate. Users are cautioned that incorrect information may appear in the description which does not apply to this platform and needs to be revised]
+
+The game features the original 4 turtles from the previous games in the series, as well as other fighters.
+
+The game is very much in the tradition of the Mortal Kombat or Street Fighter series, pitting you against opponents one at a time. Some fighters (besides the turtles) will be familiar, such as the Casey Jones, or even Shredder.
+
+Though even people familiar with the turtles will see differences in them. They can now, for example, do moves involving projectiles, such as "fireballs".
+
+The game's modes include a story mode, where you can only pick one of the turtles and go on fighting opponents in order to defeat the Shredder, and a tournament mode, where you fight only for the fame and money.
+</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles.nes</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<thumbnail>./media/covers/Teenage Mutant Ninja Turtles.png</thumbnail>
+		<image>./media/screenshots/Teenage Mutant Ninja Turtles.png</image>
+		<marquee>./media/marquees/Teenage Mutant Ninja Turtles.png</marquee>
+		<video />
+		<rating>0.65</rating>
+		<desc>With April O'Neil held hostage by The Shredder's thugs, Bebop and Rocksteady, once again, it's up to the Teenage Mutant Ninja Turtles to come to her rescue!  Play as all four of the turtle heroes, rescue April, and then rescue your sensei Splinter from Mecha-Turtles clutches than go after The Shredder deep in the bowels of The Technodrome itself.
+
+Teenage Mutant Ninja Turtles is an action game based on the late eighties/early nineties cartoon series of the same name. Play as Leonardo, Michaelangelo, Donatello and Raphael (one turtle only, but the ability to swap between turtles at any time) as you save your friends and battle The Shredder and his cronies. There are no 'lives', as such - when you lose a turtle, he becomes 'captured', and you cannot use him again until you rescue him from a place hidden in the overworld.
+
+Gameplay takes place in two perspectives: a top-down view, which lets you run around and explore buildings, sewers and other places. When entering places from the top-down view, the perspective shifts to a side-scrolling view, where most of the battling takes place. In addition to each turtle's main weapon, sub-weapons (such as shuriken) can be acquired, to use at foes - these have a limited use.</desc>
+		<releasedate>19900817T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles III - The Manhattan Project.nes</path>
+		<name>Teenage Mutant Ninja Turtles 3 : The Manhattan Pro</name>
+		<thumbnail>./media/covers/Teenage Mutant Ninja Turtles III - The Manhattan Project.png</thumbnail>
+		<image>./media/screenshots/Teenage Mutant Ninja Turtles III - The Manhattan Project.png</image>
+		<marquee>./media/marquees/Teenage Mutant Ninja Turtles III - The Manhattan Project.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>This was the last side-scrolling Teenage Mutant Ninja Turtles game for NES. It followed the highly acclaimed Turtles II over a year later and, unlike its predecessor, doesn't have an Arcade counterpart.
+
+The third game in the series is basically the same as the second. The story and the stages are different, of course, but it doesn't really matter. Choose your favourite turtle and kill as many Foot Clan soldiers as you can, fight the bosses and reach Shredder in a Double Dragon-styled game.
+
+The graphics and gameplay were improved. And, if the choice of the turtle depended only on personal taste in the second game (as they were all the same, in different colors), in this third episode they gained individual special moves.
+</desc>
+		<releasedate>19920202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles II - The Arcade Game.nes</path>
+		<name>Teenage Mutant Ninja Turtles II : The Arcade Game</name>
+		<thumbnail>./media/covers/Teenage Mutant Ninja Turtles II - The Arcade Game.png</thumbnail>
+		<image>./media/screenshots/Teenage Mutant Ninja Turtles II - The Arcade Game.png</image>
+		<marquee>./media/marquees/Teenage Mutant Ninja Turtles II - The Arcade Game.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>April O'Neil, the reporter friend of the Teenage Mutant Ninja Turtles, is kidnapped by the villainous Shredder and his two goons, Bebop and Rocksteady. The four ninja turtles: Raphael, Michelangelo, Donatello and Leonardo fight their way through hordes of Foot Soldiers in order to rescue April. They battle familiar foes such as the mad scientist Baxter Stockman, General Traag from Dimension X and the evil alien brain Krang, up to the final showdown with Shredder himself.
+
+Teenage Mutant Ninja Turtles: The Arcade Game is a port of the popular arcade game made by Konami during the height of the cartoon series' popularity. Depending on the version of the game, up to two, three or four players can take part in the action. The game plays like a simplified Double Dragon. While most of the standard Foot Soldier enemies are easily dispatched, some attack with knives or ray guns and are thus more dangerous. At the end of each level, players encounter a boss (or in certain cases two bosses working in tandem, such as Bebop and Rocksteady).
+
+The NES version of the game features additional content not present in other versions of the game: two new levels (Snowy Central Park and The Dojo), new bosses (including Tora, Shogun and Baxter Stockman as a fly), additional music tracks as well as more variations of Foot Soldiers.
+</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tetris (Tengen).nes</path>
+		<name>Tetris: The Soviet Mind Game</name>
+		<thumbnail>./media/covers/Tetris (Tengen).png</thumbnail>
+		<image>./media/screenshots/Tetris (Tengen).png</image>
+		<marquee>./media/marquees/Tetris (Tengen).png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The drama surrounding Tetris is one of the most storied sagas in the history of the NES. Tengen, an ambitious Atari-associated game developer, began releasing official NES games in 1988. Meanwhile, the company worked rapidly behind the scenes to override Nintendo's infamous lockout device that kept unofficial cartridges from being played on its console. When Tengen released its first unofficial games using its new technology, Nintendo quickly sued. This was just the beginning of the Tengen/Nintendo feud. Ignoring Nintendo's claim to the Tetris name in the US a year later, Tengen released its own version of the world's most famous puzzle game on an unlocked, unofficial cartridge. Tengen's tetris was pulled from shelves almost immediately when it was revealed that Nintendo's hold on the Tetris name stateside was legitimate. Unfortunately, almost everyone agrees that Tengen's version of the game was far superior to Nintendo's, even including a two-player mode which Nintendo's version sorely lacked. Today, the game known as Tengen Tetris is a rare title to have in your collection, but it's a worthwhile play. After all, Tetris is one of the classic games not only on the NES, but of all-time.</desc>
+		<releasedate>19890501T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Tengen</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Trog.nes</path>
+		<name>Trog!</name>
+		<thumbnail>./media/covers/Trog.png</thumbnail>
+		<image>./media/screenshots/Trog.png</image>
+		<marquee>./media/marquees/Trog.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>Long ago, back in the days of cavemen and dinosaurs, there was a land called Og.  In this land, hungry one-eyed cavemen, called Trogs, loved the taste of eggs.  However, two Dino-Mites, Spike and Bloop, were determined to rescue the eggs from certain doom!
+
+Up to two players can play in a race to gather up the Trog eggs as quickly as possible.  The first player to get all eggs of their colour wins the round.  Of course, Trogs also love the taste of Spike and Bloop, and will use cavemen inventions such as fire and the wheel to catch them and gobble them up!  Luckily, the Dinos can fight back - eating a pineapple will turn them into a monstrous T-Rex that can chow down on Trogs, while a hot tamale lets them breathe fire.
+</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Marvel's X-Men.NES</path>
+		<name>Uncanny X-Men, The</name>
+		<thumbnail>./media/covers/Marvel's X-Men.png</thumbnail>
+		<image>./media/screenshots/Marvel's X-Men.png</image>
+		<marquee>./media/marquees/Marvel's X-Men.png</marquee>
+		<video />
+		<rating>0.15</rating>
+		<desc>Professor Xavier and his Uncanny X-Men are all that stand in the way of the rampage of Magneto and his henchmen. The X-Men: Wolverine, Cyclops, Storm, Colossus, Iceman and Nightcrawler, are ready to fight Magneto.
+
+The Uncanny X-Men is an over-head view action game. Players begin by choosing two X-Men from the roster (the second either controlled by another player or the computer) and select one of five levels including a practice level. The goal in each level is to reach the hidden 'command center' and destroy it. The X-Men all share similar abilities, being able to move in any direction, jump and attack. Half of the characters (Storm, Iceman, Cyclops) have long range attacks while the other half (Wolverine, Nightcrawler, Colossus) must get in close range to punch the enemies. Each X-men can only sustain a certain number of hits before being defeated. Should the two X-Men both fall in battle, players will be able to choose two more to attempt the level again until all of the X-Men are used up.
+
+Power-ups include an "S" which stops time, invincibility for a short time and a health restore. There is also a Magnet (symbol of Magneto) power-down which renders the X-men immobile for a short time.</desc>
+		<releasedate>19891201T000000</releasedate>
+		<developer>LJN</developer>
+		<publisher>LJN</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Vice - Project Doom.nes</path>
+		<name>Vice : Project Doom</name>
+		<thumbnail>./media/covers/Vice - Project Doom.png</thumbnail>
+		<image>./media/screenshots/Vice - Project Doom.png</image>
+		<marquee>./media/marquees/Vice - Project Doom.png</marquee>
+		<video />
+		<rating>0.75</rating>
+		<desc>Quinn Hart and his partner, Detective Reese of the VICE squad both work to stop the trafficking of illegal substances. But something new has appeared on the scene, a neon gel with great addictive properties. During investigations as to the origin of the gel, Reese mysteriously disappears and leaves Hart without a lead. Time passes and Hart becomes romantically involved with his new partner, Christy, as he continues trying to track down the gel. But Hart is about to get a brand new lead...
+
+Vice: Project Doom is a game that features both overhead driving modes and side-scrolling platform adventure sequences. Hart's vehicle can accelerate or slow down and fire his weapon straight ahead. During side-scrolling sequences, Hart can jump, duck, climb or use his selected weapon. Weapons that can be selected include a Katana sword, a pistol and a grenade-type weapon. These weapons feature limited ammunition with the exception of the katana. Power-ups include ammunition, coins, and health.
+
+During both of these sequences, Hart must fight and maneuver his way past enemy foes to confront a boss. By destroying the boss and completing the level, Hart progresses and learns a bit more about the origins of the neon gel and what Project Doom is all about. Cinematics dialog between the levels tell the tale in a style similar to that of Ninja Gaiden.
+</desc>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Aicom</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wizards &amp; Warriors.nes</path>
+		<name>Wizards &amp; Warriors</name>
+		<thumbnail>./media/covers/Wizards &amp; Warriors.png</thumbnail>
+		<image>./media/screenshots/Wizards &amp; Warriors.png</image>
+		<marquee>./media/marquees/Wizards &amp; Warriors.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>You are Kuros, a powerful knight who enter the woods of Elrond.
+Legend says that a powerful wizard named Malkil has has gone completely mad during his years and turned his powerful magic to the dark side.
+Malkil has his base on the castle IronSpire where he has imprisoned a young and beautiful princess. It is up to Kuros to save the princess once and for all.</desc>
+		<releasedate>19900117T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wizards &amp; Warriors III.nes</path>
+		<name>Wizards &amp; Warriors III : Kuros...Visions of Power</name>
+		<thumbnail>./media/covers/Wizards &amp; Warriors III.png</thumbnail>
+		<image>./media/screenshots/Wizards &amp; Warriors III.png</image>
+		<marquee>./media/marquees/Wizards &amp; Warriors III.png</marquee>
+		<video />
+		<rating>0.9</rating>
+		<desc>The third installment of Wizards &amp; Warriors for the NES divulges during the intro that the evil wizard Malkil was not actually vanquished at the end of the second game. In fact, after the mighty battle with the hero Kuros, Malkil retreated to a nearby self-contained castle kingdom and conducted a hostile takeover. Kuros comes on the scene and must attempt to relieve Malkil of his ill-gotten command of the kingdom, its subjects, and especially its princesses.
+
+The third game in the Wizards &amp; Warriors NES franchise features a similar feel to the first two games in that Kuros' movements are very quick and nimble. The player also has the ability to control Kuros' sword swing movements. However, Kuros has three different character classes to alternate between-- the knight, the thief, and the wizard. Each represents trade-offs between speed, attack strength, and defense strength. There are various guilds throughout the game devoted to training knights, thieves, and wizards where the player must complete challenging obstacle courses in order to increase their character class level.
+
+The gameplay proceeds up a large vertical city/castle with dangerous, monster-filled hallways and caverns. Kuros must kill monsters, gather money, buy goods and services, raise his character class levels, rescue a variety of apprehended princesses and gather special jewels, all in a quest to face off with Malkil once again.
+</desc>
+		<releasedate>19920302T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Yoshi's Cookie.nes</path>
+		<name>Yoshi's Cookie</name>
+		<thumbnail>./media/covers/Yoshi's Cookie.png</thumbnail>
+		<image>./media/screenshots/Yoshi's Cookie.png</image>
+		<marquee>./media/marquees/Yoshi's Cookie.png</marquee>
+		<video />
+		<rating>0.7</rating>
+		<desc>Yoshi's Cookie is a fast-paced puzzle game that can be enjoyed by everyone as it is easy to play, but challenging to complete. To play, you move the randomly placed cookies into rows and columns of cookies with similar patterns. When you successfully assemble a row or column of the same cookies, the line will disappear, and you can begin on a new row or column. The "Yoshi" cookie is very special in both the 1-player and the 2-player game. Since the Yoshi Cookie is the key to both games, you must use it wisely.</desc>
+		<releasedate>19930402T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Zelda II - The Adventure of Link.nes</path>
+		<name>Zelda II : The Adventure of Link</name>
+		<thumbnail>./media/covers/Zelda II - The Adventure of Link.png</thumbnail>
+		<image>./media/screenshots/Zelda II - The Adventure of Link.png</image>
+		<marquee>./media/marquees/Zelda II - The Adventure of Link.png</marquee>
+		<video />
+		<rating>0.8</rating>
+		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Action / Adventure, Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./StarTropics II - Zoda's Revenge.nes</path>
+		<name>Zoda's Revenge : StarTropics II</name>
+		<thumbnail>./media/covers/StarTropics II - Zoda's Revenge.png</thumbnail>
+		<image>./media/screenshots/StarTropics II - Zoda's Revenge.png</image>
+		<marquee>./media/marquees/StarTropics II - Zoda's Revenge.png</marquee>
+		<video />
+		<rating>0.85</rating>
+		<desc>You are Mike Jones, the main character in the game. One day at Dr. Jones' office, the Oxford Wonder Word is opened and while saying the magic words; a time rift opens up and you fall in. This game is a journey through time and space, going through 8 different time shifts, and meeting some of the historical figures from the past. Your mission is to get the mystical tetrads that are located in these time periods. You run into the alien creature Zoda who is out to steal and destroy the tetrads.</desc>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Zombie Nation.nes</path>
+		<name>Zombie Nation</name>
+		<thumbnail>./media/covers/Zombie Nation.png</thumbnail>
+		<image>./media/screenshots/Zombie Nation.png</image>
+		<marquee>./media/marquees/Zombie Nation.png</marquee>
+		<video />
+		<rating>0.45</rating>
+		<desc>In 1999 a mysterious object crashes into the desert and a mysterious creature, Darc Seed appears. Using magnetic powers, he soon turns the people of the United States into zombies and exerts influence over various weapons and objects. Among the weapons Darc Seed claims is the legendary samurai sword, Shura. When the great head of the samurai, Namakubi hears about this, he sets out for the United States to defeat Darc Seed and reclaim the sword.
+
+What makes this so unusual however is that "great head of the samurai" is to be taken literally and Namakubi therefore is a giant disembodied head. His main weapon is the ability to shoot projectiles from his eyes and bombs from his mouth which he fires at various enemies, objects and buildings. Furthermore, should a zombie hostage fall out a window he can rescue them to slowly power up his attacks.
+
+The game is a side-scrolling shooter in which the player can control Namakubi's movement across the screen and the ability to shoot. Enemies reduce health by varying amounts, health can be restored by increasing the player's score. The game features four distinct stages with 2 difficulty settings.</desc>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Kaze</developer>
+		<publisher>Meldac</publisher>
+		<genre>Shoot'em Up, Shoot'em up / Horizontal, Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Adventures of Lolo II , The.nes</path>
+		<name>Adventures of Lolo 2</name>
+		<desc>Adventures of Lolo 2 is a sequel to Adventures of Lolo (NES). Once again, the brave blue ball-like Lolo has to save the princess from the evil demons, who kidnapped her and imprisoned her in a high tower. Solve puzzles to proceed from room to room. Push tiles, eat hearts, turn green dragons into white eggs, and protect yourself from enemies firing at you and chasing you all over the room.</desc>
+		<image>./media/screenshots/Adventures of Lolo II , The.png</image>
+		<video>./media/videos/Adventures of Lolo II , The.mp4</video>
+		<marquee>./media/marquees/Adventures of Lolo II , The.png</marquee>
+		<thumbnail>./media/covers/Adventures of Lolo II , The.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19900301T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Strategy, Puzzle-Game</genre>
+		<kidgame>true</kidgame>
+		<playcount>2</playcount>
+		<lastplayed>20201015T203642</lastplayed>
+	</game>
+</gameList>
