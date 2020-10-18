@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is the default artwork.xml provided by Skyscraper. More examples can be found in '~/.skyscraper'. Be sure to check the full artwork documentation here: https://github.com/muldjord/skyscraper/blob/master/docs/ARTWORK.md -->
+<artwork>
+  <output type="marquee" resource="wheel"/>
+  <output type="wheel" resource="marquee"/>
+  <output type="cover"/>
+  <output type="screenshot">
+    <layer resource="screenshot">
+      <opacity value="55"/>
+    </layer>
+  </output>
+</artwork>

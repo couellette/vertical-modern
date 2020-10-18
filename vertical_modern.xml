@@ -14,13 +14,17 @@ Element color: Search and replace colors. Do not use spaces!
 <theme>
     <formatVersion>3</formatVersion>
 
-	<view name="system">
+	<view name="system, detailed">
 
 		
 
 		<helpsystem name="help">
 			<textColor>7d7d7d</textColor>
 			<iconColor>7d7d7d</iconColor>
+			<fontSize>0.0145</fontSize>
+			<pos>0.51 0.96</pos>
+			<fontPath>./art/Lato-Light.ttf</fontPath>
+			<origin>0.5 0.5</origin>
 		</helpsystem>
 
 		
@@ -36,7 +40,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<selectedColor>8b0000</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
-			<fontPath>./art/Cabin-Bold.ttf</fontPath>
+			<fontPath>./art/Lato-Light.ttf</fontPath>
 			<fontSize>0.030</fontSize>
 			<pos>0.025 0.18</pos>
 			<size>0.950 0.73</size>
@@ -84,7 +88,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<fontSize>0.023</fontSize>
 		</text>
 		<text name="md_lbl_players, md_players">
-			<color>000000</color>
+			<color>969696</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
@@ -101,6 +105,12 @@ Element color: Search and replace colors. Do not use spaces!
 			<fontSize>0.023</fontSize>
 		</datetime>
 
+<rating name="md_rating">
+         <pos>0.42 0.62</pos>
+         <size>0.2015625 0.0277777777777778</size>
+         <filledPath>./art/star_filled_spacing.svg</filledPath>
+         <unfilledPath>./art/star_hollow_spacing.svg</unfilledPath>
+      </rating>
 		<datetime name="md_lastplayed">
 			<pos>1 1</pos>
 		</datetime>
@@ -111,43 +121,51 @@ Element color: Search and replace colors. Do not use spaces!
 		</datetime>
 
 		<text name="md_genre">
-			<pos>1 0.66</pos>
+			<pos>0.42 0.66</pos>
 			<size>0 0.033</size>
+			<fontPath>./art/Lato-Medium.ttf</fontPath>
+			<fontSize>0.012</fontSize>
+			<size>0.2 0.01</size>
 		</text>
 
 		<text name="md_developer">
-			<pos>1 0.69</pos>
+			<pos>0.42 0.678</pos>
+			<fontPath>./art/Lato-Black.ttf</fontPath>
+			<fontSize>0.012</fontSize>
 			<size>0 0.033</size>
 		</text>
 
 		<text name="md_lbl_players, md_players">
-			<pos>1 0.63</pos>
+			<pos>0.42 0.702</pos>
 			<size>0.09 0</size>
+			<fontPath>./art/Lato-Medium.ttf</fontPath>
+			<fontSize>0.012</fontSize>
+			<size>0.2 0.01</size>
 		</text>
 
-		<text name="ms_players">
-			<pos>1 0.63</pos>
+		<text name="md_players">
+			<pos>0.48 0.6981</pos>
+                        <fontPath>./art/Lato-Black.ttf</fontPath>
 			<size>0.02 0</size>
 		</text>
 
 		<text name="md_description">
 			<color>969696</color>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>./art/Cabin-Bold.ttf</fontPath>
-			<fontSize>0.02</fontSize>
-			<size>0.467 0.16</size>
-			<pos>1 0.746</pos>
+			<fontPath>./art/Lato-Regular.ttf</fontPath>
+			<fontSize>0.012</fontSize>
+			<size>0.20 0.10</size>
+			<pos>0.42 0.73</pos>
 		</text>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
-			<selectedColor>8b0000</selectedColor>
+			<selectorColor>252525</selectorColor>
+			<selectedColor>ffffff</selectedColor>
 			<primaryColor>969696</primaryColor>
-			<secondaryColor>7a6161</secondaryColor>
-			<fontPath>./art/Cabin-Bold.ttf</fontPath>
-			<forceUppercase>0</forceUppercase>
+			<secondaryColor>ffffff</secondaryColor>
+			<fontPath>./art/Lato-Regular.ttf</fontPath>
 			<pos>0 0.63</pos>
-			<size>0.45 0.304</size>
+			<size>0.4 0.304</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.07</horizontalMargin>
 			<fontSize>0.016</fontSize>
@@ -178,14 +196,22 @@ Element color: Search and replace colors. Do not use spaces!
 
 		</view>
 
-	<view name="basic, detailed, video">
+	<view name="basic, detailed, video, grid">
 
 		<image name="bottom" extra="true">
 			<pos>0 -0.01x</pos>
-			<origin>0 -0.128</origin>
-			<size>1 4.8</size>
+			<origin>0 -0.1216</origin>
+			<size>0.4 5</size>
 			<path>./art/bottom.png</path>
-			<color>252424</color>
+			<color>1b1b1b</color>
+		</image>
+
+		<image name="middle" extra="true">
+			<pos>0.4 -0.01</pos>
+			<origin>0 -0.1216</origin>
+			<size>0.6 5</size>
+			<path>./art/bottom.png</path>
+			<color>252525</color>
 		</image>
 
 			</view>
@@ -203,11 +229,33 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 		<image name="md_thumbnail">
 			<pos>0.9 0.74</pos>
-			<maxSize>0.353 0.30</maxSize>
+			<maxSize>0.30 0.30</maxSize>
 			<origin>0.9 0.4</origin>
 		</image>
 
+
+
 	</view>
 
+<view name="grid">
+
+		
+
+		<imagegrid name="gamegrid">
+			<pos>0.025 0.74</pos>
+			<size>0.950 0.74</size>
+			<margin>0.02 0.02</margin>
+		</imagegrid>
+
+		<gridtile name="default">
+			<size>0.353 0.30</size>
+			<backgroundColor>00000000</backgroundColor>
+		</gridtile>
+
+		<gridtile name="selected">
+			
+			<backgroundColor>00000000</backgroundColor>
+		</gridtile>
+	</view>
 
 </theme>

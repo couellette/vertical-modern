@@ -19,7 +19,7 @@
 		
 	</view>
 
-	<view name="basic, detailed, video">
+	<view name="basic, detailed, video, grid">
 
 		<image name="logo">
 			<path>./art/system.svg</path>
@@ -30,8 +30,8 @@
 		
 		<image name="logo2" extra="true">
 			<path>./art/controller.svg</path>
-			<pos>0.54 0.87</pos>
-			<maxSize>0.20 0.126</maxSize>
+			<pos>0.52 0.89</pos>
+			<maxSize>0.16 0.126</maxSize>
 			<origin>0.5 0.5</origin>
 			<color>0000ff</color>
 		</image>
