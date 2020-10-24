@@ -1,4 +1,13 @@
+Video layout example: https://imgur.com/gallery/2dSAQMT
+
+Detailed layout example: https://imgur.com/gallery/hekyNqq
+
+
+INSTRUCTIONS:
+
 SFTP link into your raspberry pi - Go to etc >> emulationstation >> themes and paste the repository (vertical-modern) in the theme folder.
+
+Set the theme view to 'Detailed'
 
 Afterwards you'll more than likely need to use skyscraper to download boxart, screenshots and logos and be sure to generate gamelist.
 

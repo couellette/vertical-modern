@@ -14,7 +14,30 @@ Element color: Search and replace colors. Do not use spaces!
 <theme>
     <formatVersion>3</formatVersion>
 
-	<view name="system, detailed">
+ <view name="system">
+     <carousel name="systemcarousel">
+         <type>horizontal</type>
+         <pos>0 0.2</pos>
+         <size>1 0.175</size>
+         <color>00000000</color>
+         <logoSize>0.5625 0.075</logoSize>
+         <logoScale>1.3</logoScale>
+         <maxLogoCount>1</maxLogoCount>
+         <zIndex>1000</zIndex>
+      </carousel>
+
+	 <text name="systemInfo">
+         <backgroundColor>00000000</backgroundColor>
+         <pos>0 0.52</pos>
+         <color>ffffff</color>
+         <fontPath>./art/Lato-Light.ttf</fontPath>
+         <fontSize>0.04</fontSize>
+         <zIndex>500</zIndex>
+      </text>
+
+   </view>
+
+	<view name="system, detailed, video">
 
 		
 
@@ -28,6 +51,40 @@ Element color: Search and replace colors. Do not use spaces!
 		</helpsystem>
 
 		
+
+	</view>
+	<view name="detailed, video">
+
+		<image name="md_image">
+			<pos>0.5 1</pos>
+			<size>1 .6</size>
+			<origin>0.5 1.668</origin>
+		</image>
+		<image name="md_marquee">
+			<pos>0.33 0.33</pos>
+			<maxSize>0.453 0.436</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+		<image name="md_thumbnail">
+			<pos>0.9 0.74</pos>
+			<maxSize>0.30 0.30</maxSize>
+			<origin>0.9 0.4</origin>
+		</image>
+
+
+
+	</view>
+	<view name="video">
+
+		
+		<image name="md_thumbnail">
+			<pos>0.9 0.74</pos>
+			<size>0.30 0.30</size>
+			<maxSize>0.30 0.40</maxSize>
+			<origin>0.9 0.4</origin>
+		</image>
+
+
 
 	</view>
 
@@ -58,20 +115,18 @@ Element color: Search and replace colors. Do not use spaces!
 		<view name="video">
 
 			<video name="md_video">
-				<pos>0.763 0.400</pos>
-				<maxSize>0.366 0.436</maxSize>
-				<origin>0.5 0.5</origin>			
-				<delay>0.2</delay>
+				<pos>0.5 1</pos>
+				<size>1 .6</size>
+				<origin>0.5 1.668</origin>		
+				<delay>1</delay>
 				<default></default>
-				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotNoVideo>false</showSnapshotNoVideo>
 				<showSnapshotDelay>false</showSnapshotDelay>
 			</video>
+			
+	
 
-			<image name="md_cover">
-				<pos>0.6 0.035</pos>
-				<origin>0 0</origin>
-				<maxSize>0.2 0.1</maxSize>
-			</image>
+
 
 		</view>
 
@@ -105,12 +160,12 @@ Element color: Search and replace colors. Do not use spaces!
 			<fontSize>0.023</fontSize>
 		</datetime>
 
-<rating name="md_rating">
-         <pos>0.42 0.62</pos>
-         <size>0.2015625 0.0277777777777778</size>
-         <filledPath>./art/star_filled_spacing.svg</filledPath>
-         <unfilledPath>./art/star_hollow_spacing.svg</unfilledPath>
-      </rating>
+		<rating name="md_rating">
+         		<pos>0.42 0.62</pos>
+    	                <size>0.2015625 0.0277777777777778</size>
+   	                <filledPath>./art/star_filled_spacing.svg</filledPath>
+                        <unfilledPath>./art/star_hollow_spacing.svg</unfilledPath>
+                </rating>
 		<datetime name="md_lastplayed">
 			<pos>1 1</pos>
 		</datetime>
@@ -214,32 +269,10 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>252525</color>
 		</image>
 
-			</view>
-<view name="detailed">
-
-		<image name="md_image">
-			<pos>0.5 -0.2</pos>
-			<maxSize>1.5 0.8</maxSize>
-			<origin>0.5 0</origin>
-		</image>
-		<image name="md_marquee">
-			<pos>0.33 0.33</pos>
-			<maxSize>0.453 0.436</maxSize>
-			<origin>0.5 0.5</origin>
-		</image>
-		<image name="md_thumbnail">
-			<pos>0.9 0.74</pos>
-			<maxSize>0.30 0.30</maxSize>
-			<origin>0.9 0.4</origin>
-		</image>
-
-
-
 	</view>
 
-<view name="grid">
 
-		
+	<view name="grid">
 
 		<imagegrid name="gamegrid">
 			<pos>0.025 0.74</pos>

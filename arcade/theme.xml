@@ -10,9 +10,16 @@
 			<origin>0.5 0.5</origin>
 			<size>0.3 0</size>
 			<path>./art/controller.svg</path>
-			<color>FFFF00</color>
+			
 		</image>
-		
+		<image name="ControllerOverlay" extra="true">
+			<tile>false</tile>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.56</origin>
+			<size>1 0</size>
+			<path>./art/arcade.png</path>
+			<!--<color>8b0000</color>-->
+		</image>	
 		<image name="logo">
 			<path>./art/system.svg</path>
         </image>

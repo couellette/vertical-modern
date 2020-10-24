@@ -4,7 +4,7 @@ For use with EmulationStation (http://www.emulationstation.org/)
 
 
 Fonts:
-Users can use any font they would like with the theme. Just copy your font to /etc/emulationstation/themes/Vertical_Modern/art folder. Rename the original font "Lato-Regular.ttf" to "Lato-Regular.ttf.backup" and then rename your font to "Lato-Regular.ttf". This will have the theme use your font instead of what comes with Vertical_Modern.
+Users can use any font they would like with the theme. Just copy your font to /etc/emulationstation/themes/Vertical_Modern/art folder. Rename the original font "Cabin-Bold.ttf" to "Cabin-Bold.ttf.backup" and then rename your font to "Cabin-Bold.ttf". This will have the theme use your font instead of what comes with Vertical_Modern.
 
 Gamelist Font Size:
 To change the font size of the Gamelist, open the "Vertical_Modern.xml" with a text editor, look for the tag <gamelist> and find a tag inside called <fontSize>. The original value is 0.03. A small change makes a big difference in size. If you want smaller gamelist names, try 0.02. If you want larger, try 0.04. You can even go further by trying 0.015.
