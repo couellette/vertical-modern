@@ -16,9 +16,9 @@
 		<image name="ControllerOverlay" extra="true">
 			<tile>false</tile>
 			<pos>0.5 0.5</pos>
-			<origin>0.5 0.56</origin>
+			<origin>0.5 0.51</origin>
 			<size>1 0</size>
-			<path>./art/nes.png</path>
+			<path>./art/menu-nes.png</path>
 			<!--<color>8b0000</color>-->
 		</image>
 		
@@ -31,7 +31,7 @@
 	<view name="basic, detailed, video, grid">
 
 		<image name="logo">
-			<path>./art/system.svg</path>
+			<path>./art/system-small.svg</path>
 			<pos>0.16 0.074</pos>
 			<maxSize>0.18 0.126</maxSize>
 			<origin>0.5 0.5</origin>

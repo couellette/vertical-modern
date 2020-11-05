@@ -15,9 +15,9 @@
 		<image name="ControllerOverlay" extra="true">
 			<tile>false</tile>
 			<pos>0.5 0.5</pos>
-			<origin>0.5 0.56</origin>
+			<origin>0.5 0.51</origin>
 			<size>1 0</size>
-			<path>./art/arcade.png</path>
+			<path>./art/menu-arcade.png</path>
 			<!--<color>8b0000</color>-->
 		</image>	
 		<image name="logo">

@@ -17,21 +17,21 @@ Element color: Search and replace colors. Do not use spaces!
  <view name="system">
      <carousel name="systemcarousel">
          <type>horizontal</type>
-         <pos>0 0.2</pos>
+         <pos>0 0.46</pos>
          <size>1 0.175</size>
          <color>00000000</color>
-         <logoSize>0.5625 0.075</logoSize>
-         <logoScale>1.3</logoScale>
+         <logoSize>0.5625 0.085</logoSize>
+         <logoScale>1.4</logoScale>
          <maxLogoCount>1</maxLogoCount>
          <zIndex>1000</zIndex>
       </carousel>
 
 	 <text name="systemInfo">
          <backgroundColor>00000000</backgroundColor>
-         <pos>0 0.52</pos>
+         <pos>0 0.05</pos>
          <color>ffffff</color>
          <fontPath>./art/Lato-Light.ttf</fontPath>
-         <fontSize>0.04</fontSize>
+         <fontSize>0.05</fontSize>
          <zIndex>500</zIndex>
       </text>
 
