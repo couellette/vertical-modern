@@ -53,40 +53,7 @@ Element color: Search and replace colors. Do not use spaces!
 		
 
 	</view>
-	<view name="detailed, video">
 
-		<image name="md_image">
-			<pos>0.5 1</pos>
-			<size>1 .6</size>
-			<origin>0.5 1.668</origin>
-		</image>
-		<image name="md_marquee">
-			<pos>0.33 0.33</pos>
-			<maxSize>0.453 0.436</maxSize>
-			<origin>0.5 0.5</origin>
-		</image>
-		<image name="md_thumbnail">
-			<pos>0.9 0.74</pos>
-			<maxSize>0.30 0.30</maxSize>
-			<origin>0.9 0.4</origin>
-		</image>
-
-
-
-	</view>
-	<view name="video">
-
-		
-		<image name="md_thumbnail">
-			<pos>0.9 0.74</pos>
-			<size>0.30 0.30</size>
-			<maxSize>0.30 0.40</maxSize>
-			<origin>0.9 0.4</origin>
-		</image>
-
-
-
-	</view>
 
 	<view name="basic">
 
@@ -131,6 +98,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</view>
 
 	</feature>
+
 
 	<view name="detailed, video">
 
@@ -291,4 +259,27 @@ Element color: Search and replace colors. Do not use spaces!
 		</gridtile>
 	</view>
 
+	<view name="detailed, video">
+		<image name="md_image">
+			<pos>0.5 1</pos>
+			<size>1 .6</size>
+			<origin>0.5 1.668</origin>
+		</image>
+	
+		<image name="md_marquee">
+			<pos>0.33 0.33</pos>
+			<maxSize>0.453 0.436</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
+		<image name="md_thumbnail">
+			<pos>0.9 0.74</pos>
+			<maxSize>0.30 0.30</maxSize>
+			<origin>0.9 0.4</origin>
+		</image>
+
+
+
+
+	</view>
 </theme>
