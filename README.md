@@ -1,4 +1,4 @@
-Last update: 4/11/2020
+Last update: 7/11/2020
 
 Theme UI currently supports the following consoles:
 - NES
